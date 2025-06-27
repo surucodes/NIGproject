@@ -1,0 +1,22 @@
+#is responsible in creating my ml application as a package. we can also install this package and use it. we can even deploy this in python.pipy and anyone can use it and deploy it there.
+# It’s a plain text file that lists all the Python packages your project needs — with exact versions.
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+catboost
+xgboost
+dill 
+Flask
+pickle
+# -e .
+#this -e setup.py will automaticallt get triggered.
+# 
+# pip install -r requirements.txt
+# ✅ It will:
+
+# Install pandas and numpy
+
+# Also run setup.py to install your project mlproject (or whatever name is in setup.py) in editable mode
+# '''

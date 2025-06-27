@@ -1,0 +1,1001 @@
+age,sex,ethnicity,bmi,socioeconomic_status,physical_activity,alcohol_consumption,smoking_status,sleep_duration,sleep_quality,stress_levels,family_history_diabetes,prediabetes,gestational_diabetes,hypertension,pcos,cardiovascular_disease,kidney_problems,medications,blood_pressure_systolic,blood_pressure_diastolic,heart_rate,skin_temperature,blood_glucose,sensor_current_ua,BMI_Category
+32,Female,Caucasian,28.9,Middle,Active,none,Never,9.1,Good,Moderate,No,No,No,No,No,No,No,none,132,89,80,31.7,98.9,0.88,Overweight
+20,Female,South Asian,18.0,Low,Sedentary,none,Never,7.5,Poor,Low,Yes,Yes,No,No,No,Yes,No,Steroids,110,100,79,32.6,146.1,1.49,Underweight
+55,Female,South Asian,22.4,Middle,Moderate,Moderate,Former,4.2,Good,Moderate,No,No,No,No,No,No,No,Steroids,104,81,55,30.8,89.3,0.95,Normal
+30,Male,Other,24.8,Middle,Sedentary,none,Never,7.9,Good,Low,No,No,No,Yes,No,No,No,Insulin,116,77,85,33.5,110.2,1.2,Normal
+49,Male,South Asian,18.7,Low,Moderate,Heavy,Never,6.2,Good,Moderate,No,No,No,No,No,No,No,Steroids,99,90,69,31.5,85.6,0.85,Normal
+68,Female,South Asian,18.6,Middle,Moderate,none,Current,6.2,Good,Low,Yes,No,No,No,Yes,No,Yes,Steroids,126,89,71,31.9,120.9,1.18,Normal
+27,Male,Hispanic,19.5,Middle,Sedentary,none,Current,4.0,Average,Moderate,No,No,No,No,No,No,No,Steroids,129,64,80,31.9,73.9,0.71,Normal
+50,Female,Hispanic,28.9,Low,Sedentary,none,Current,7.2,Average,High,No,Yes,Yes,No,No,No,No,none,120,72,74,32.4,132.1,1.31,Overweight
+26,Male,South Asian,34.0,Low,Sedentary,none,Never,7.0,Good,High,No,No,No,No,No,Yes,No,none,132,91,78,31.1,132.5,1.3,Obese
+37,Female,Caucasian,20.7,Middle,Sedentary,Moderate,Never,4.7,Poor,Moderate,Yes,Yes,No,Yes,No,No,No,Insulin,133,83,78,32.3,100.7,1.04,Normal
+53,Female,Hispanic,23.2,Middle,Sedentary,Moderate,Current,9.1,Average,Moderate,No,No,No,Yes,No,No,No,none,107,101,89,33.0,146.3,1.49,Normal
+29,Male,Hispanic,25.6,Low,Moderate,none,Former,7.8,Poor,Moderate,No,No,No,No,No,Yes,No,Steroids,118,99,72,32.1,100.0,0.92,Overweight
+44,Female,Hispanic,23.5,Middle,Moderate,Heavy,Never,6.0,Poor,High,Yes,No,No,No,No,Yes,No,none,121,97,83,30.6,182.3,1.76,Normal
+24,Male,African,25.2,Low,Sedentary,none,Never,6.5,Average,Low,No,No,No,No,No,No,No,none,123,82,62,31.1,112.7,1.11,Overweight
+33,Male,South Asian,22.0,Low,Active,Heavy,Never,8.4,Average,Moderate,No,No,No,No,No,No,No,Insulin,134,65,68,32.2,108.2,1.03,Normal
+24,Female,South Asian,24.0,Middle,Active,none,Never,8.3,Average,Moderate,No,No,No,Yes,No,No,No,none,101,71,86,31.9,91.1,0.87,Normal
+21,Female,Other,28.5,Low,Moderate,none,Current,8.5,Average,Moderate,No,No,No,No,No,Yes,No,none,115,85,98,30.6,77.5,0.68,Overweight
+35,Male,Hispanic,30.5,Middle,Sedentary,Heavy,Current,7.0,Good,Low,No,No,No,Yes,No,No,No,Insulin,110,65,80,32.1,121.3,1.16,Obese
+26,Male,South Asian,31.5,Low,Moderate,none,Former,9.0,Average,High,Yes,Yes,No,No,No,No,No,Metformin,129,86,95,32.0,105.5,1.08,Obese
+46,Male,Other,32.8,Middle,Sedentary,Moderate,Never,7.1,Average,Low,No,No,No,No,No,No,No,Metformin,132,67,57,32.6,99.9,1.05,Obese
+32,Female,Hispanic,25.6,Middle,Sedentary,none,Former,10.0,Average,Moderate,Yes,Yes,No,No,Yes,No,No,Metformin,129,74,57,30.5,213.3,2.0,Overweight
+58,Female,Hispanic,30.9,Middle,Sedentary,Moderate,Never,7.5,Average,Low,No,No,No,Yes,No,No,No,Metformin,133,72,59,30.2,112.8,1.0,Obese
+39,Female,Hispanic,19.1,Middle,Sedentary,none,Never,6.3,Average,Moderate,Yes,No,No,No,No,No,No,none,116,78,71,33.6,150.9,1.68,Normal
+36,Female,Caucasian,27.3,Low,Moderate,Moderate,Never,6.4,Average,Moderate,No,No,No,No,No,No,Yes,Metformin,92,83,84,31.7,88.7,0.9,Overweight
+36,Male,South Asian,23.3,Low,Sedentary,Moderate,Never,4.8,Average,High,No,No,No,Yes,No,No,No,none,121,99,54,31.9,88.8,0.82,Normal
+69,Female,Hispanic,27.1,High,Active,none,Former,9.3,Good,Moderate,No,No,No,No,No,No,No,Insulin,139,83,78,32.4,87.6,0.9,Overweight
+43,Male,Hispanic,24.0,Middle,Sedentary,Moderate,Former,6.8,Good,Moderate,No,No,No,No,No,Yes,No,none,111,82,74,34.3,99.1,0.96,Normal
+30,Male,South Asian,25.1,Middle,Sedentary,none,Former,10.0,Poor,High,No,No,No,Yes,No,No,No,none,125,85,75,33.4,136.9,1.37,Overweight
+24,Female,Caucasian,27.6,Middle,Active,none,Never,8.9,Good,High,No,No,No,Yes,No,No,No,Insulin,111,86,75,32.4,92.4,0.94,Overweight
+30,Female,Caucasian,24.1,Middle,Sedentary,none,Never,5.9,Average,Low,No,No,No,No,No,No,No,none,104,82,58,31.3,79.1,0.8,Normal
+48,Male,South Asian,26.3,Middle,Moderate,none,Never,6.2,Average,Low,Yes,No,No,No,No,No,No,Insulin,139,79,84,31.2,94.4,1.01,Overweight
+67,Female,South Asian,28.8,Middle,Sedentary,Moderate,Current,6.2,Poor,Moderate,Yes,No,No,Yes,No,No,No,Insulin,135,80,74,33.2,76.6,0.76,Overweight
+50,Female,Caucasian,30.8,Middle,Moderate,none,Current,7.7,Average,Moderate,Yes,No,No,No,No,No,Yes,none,115,66,76,33.5,126.2,1.27,Obese
+43,Female,South Asian,35.1,Middle,Sedentary,none,Never,7.7,Good,Moderate,No,No,No,Yes,No,No,No,none,120,70,70,31.3,83.6,0.85,Obese
+61,Male,South Asian,32.7,Middle,Sedentary,none,Current,5.3,Average,High,No,No,No,Yes,No,No,No,none,110,83,56,32.3,110.3,1.11,Obese
+45,Male,Caucasian,28.9,Middle,Active,none,Never,6.2,Good,Low,No,No,No,No,No,Yes,No,Other,123,92,78,32.1,80.8,0.88,Overweight
+21,Female,Other,33.0,Low,Sedentary,Heavy,Never,8.9,Poor,Low,No,Yes,No,Yes,No,No,No,none,123,83,70,31.2,145.4,1.51,Obese
+55,Female,South Asian,29.4,Middle,Sedentary,none,Never,7.7,Average,Low,Yes,No,No,No,No,No,No,Steroids,119,98,82,31.0,211.2,2.0,Overweight
+26,Female,South Asian,26.0,Middle,Active,Moderate,Former,8.6,Average,High,Yes,No,No,No,No,No,No,none,127,79,85,31.5,81.4,0.8,Overweight
+52,Male,Other,23.5,Middle,Sedentary,none,Never,6.0,Average,Moderate,No,No,No,Yes,No,No,No,Steroids,119,77,82,31.9,83.9,0.83,Normal
+37,Male,Other,30.8,Low,Moderate,none,Never,7.8,Average,Moderate,No,No,No,Yes,No,No,No,none,101,87,70,32.2,90.7,0.9,Obese
+38,Male,South Asian,25.7,Middle,Moderate,none,Never,7.1,Average,Moderate,No,No,No,No,No,No,No,none,101,78,82,32.7,99.1,1.06,Overweight
+36,Female,African,27.5,Low,Active,Heavy,Never,5.6,Good,Moderate,No,Yes,No,No,No,No,No,Metformin,117,89,64,30.2,134.0,1.33,Overweight
+60,Female,Caucasian,31.6,Middle,Sedentary,none,Current,8.9,Average,Low,No,No,No,No,No,No,No,Insulin,140,82,80,32.4,102.7,1.09,Obese
+55,Male,African,29.0,Middle,Active,Moderate,Former,5.5,Average,Low,No,No,No,Yes,No,No,No,Insulin,131,67,67,30.5,70.2,0.61,Overweight
+60,Male,Caucasian,30.2,Middle,Active,none,Never,4.3,Average,Moderate,No,Yes,No,No,No,Yes,No,Metformin,105,90,88,30.9,120.6,1.19,Obese
+29,Male,South Asian,22.4,High,Sedentary,none,Never,9.1,Poor,Moderate,No,No,No,Yes,No,Yes,No,Metformin,112,85,74,31.7,126.3,1.34,Normal
+18,Female,South Asian,30.6,Low,Sedentary,none,Never,6.4,Average,Low,No,No,No,No,No,Yes,No,none,112,75,79,32.8,78.5,0.84,Obese
+47,Male,Caucasian,30.6,Low,Moderate,none,Never,8.7,Average,Moderate,No,No,No,Yes,No,No,No,none,145,67,80,33.8,198.7,2.0,Obese
+48,Female,Caucasian,18.0,Middle,Sedentary,none,Current,7.7,Average,Moderate,No,No,No,No,No,No,No,none,125,64,86,31.6,86.8,0.86,Underweight
+35,Female,South Asian,25.3,Middle,Active,Moderate,Former,5.7,Poor,Moderate,No,No,No,Yes,No,Yes,No,Metformin,100,64,69,32.8,106.4,1.05,Overweight
+56,Female,African,32.7,Low,Active,Moderate,Former,8.4,Poor,Low,Yes,No,No,No,Yes,Yes,No,none,101,91,73,31.9,85.3,0.81,Obese
+28,Female,South Asian,22.2,Middle,Active,none,Former,7.6,Poor,Moderate,No,No,No,No,No,Yes,No,Metformin,107,87,84,33.6,97.1,0.93,Normal
+31,Male,Hispanic,29.3,High,Sedentary,none,Never,6.3,Poor,Moderate,Yes,No,No,Yes,No,No,No,Steroids,111,75,78,31.5,96.8,1.02,Overweight
+37,Male,Hispanic,22.9,Middle,Active,none,Never,5.4,Average,Low,No,Yes,No,No,No,No,No,Insulin,116,73,87,30.6,122.2,1.17,Normal
+44,Male,African,20.7,Middle,Sedentary,none,Never,5.9,Average,Moderate,No,No,No,No,No,No,No,none,113,73,88,32.8,124.2,1.27,Normal
+38,Male,South Asian,26.7,Middle,Sedentary,none,Never,8.8,Good,High,No,No,No,No,No,No,No,Steroids,128,79,61,32.1,180.8,1.77,Overweight
+36,Male,Caucasian,33.7,Middle,Moderate,none,Never,4.8,Poor,Low,Yes,Yes,No,No,No,No,No,none,113,68,86,31.0,105.8,1.03,Obese
+36,Female,Other,30.9,Middle,Moderate,none,Never,5.7,Good,Moderate,No,Yes,No,Yes,No,No,No,Metformin,131,66,69,32.0,104.2,1.01,Obese
+41,Female,Other,21.8,Middle,Sedentary,Moderate,Never,9.5,Average,Moderate,Yes,No,No,No,No,No,No,none,101,81,90,32.5,98.8,0.98,Normal
+20,Male,South Asian,26.7,Middle,Sedentary,none,Never,6.8,Average,Moderate,No,No,No,No,No,Yes,No,Metformin,118,79,78,31.7,125.7,1.29,Overweight
+20,Female,Hispanic,26.1,Low,Sedentary,Moderate,Never,7.4,Average,High,No,No,No,No,No,Yes,No,none,127,65,54,31.8,99.9,0.87,Overweight
+61,Male,African,33.9,Low,Sedentary,none,Current,9.3,Average,Low,No,Yes,No,No,No,Yes,No,none,133,69,72,33.7,81.3,0.82,Obese
+40,Male,South Asian,23.5,Middle,Sedentary,Moderate,Current,6.4,Poor,Moderate,No,No,No,No,No,No,No,Metformin,97,61,83,33.5,81.4,0.86,Normal
+19,Female,Caucasian,24.1,Low,Sedentary,Heavy,Never,7.7,Good,Moderate,No,No,No,No,Yes,No,No,Metformin,118,85,64,32.6,121.6,1.25,Normal
+45,Male,Caucasian,23.7,Middle,Moderate,none,Former,7.4,Good,Moderate,No,No,No,No,No,No,No,Insulin,129,86,90,31.6,120.3,1.33,Normal
+51,Female,South Asian,19.3,Middle,Sedentary,none,Never,4.0,Average,Moderate,No,No,Yes,No,No,No,No,none,107,90,87,30.2,156.9,1.44,Normal
+44,Male,Caucasian,18.0,Middle,Moderate,Moderate,Former,7.4,Good,Moderate,No,No,No,Yes,No,No,No,Insulin,144,69,60,31.2,79.9,0.76,Underweight
+43,Male,South Asian,32.4,Low,Active,Moderate,Current,6.8,Average,Moderate,No,No,No,No,No,No,No,Insulin,111,75,82,32.5,77.1,0.71,Obese
+39,Female,South Asian,19.0,Middle,Sedentary,Moderate,Current,5.1,Average,High,No,No,No,No,No,No,No,none,123,96,83,31.3,147.3,1.5,Normal
+23,Male,African,22.4,Low,Moderate,Moderate,Current,5.6,Average,High,No,No,No,No,No,No,No,Other,117,85,68,34.3,86.0,0.96,Normal
+28,Female,African,30.1,Low,Sedentary,none,Never,7.8,Average,High,No,No,No,No,No,No,No,Steroids,105,95,72,32.0,70.1,0.73,Obese
+24,Female,Caucasian,18.0,Middle,Moderate,none,Never,7.1,Good,Moderate,No,No,No,No,No,No,No,none,133,73,71,32.0,74.3,0.82,Underweight
+53,Female,African,20.2,High,Sedentary,Heavy,Current,6.6,Good,Moderate,No,No,No,No,No,Yes,No,none,138,60,70,31.8,116.6,1.15,Normal
+54,Male,Caucasian,23.8,Low,Sedentary,none,Never,5.3,Average,High,No,No,No,No,No,Yes,No,none,123,92,67,31.4,81.1,0.76,Normal
+21,Female,Caucasian,29.6,Low,Sedentary,Moderate,Never,7.1,Average,High,No,No,No,No,No,No,No,Steroids,107,79,65,31.1,160.8,1.53,Overweight
+39,Male,Other,27.6,Low,Active,none,Never,5.5,Good,Low,No,No,No,No,No,No,No,Steroids,123,70,73,31.1,71.3,0.77,Overweight
+80,Male,South Asian,22.3,Low,Sedentary,none,Never,7.2,Average,Moderate,No,Yes,No,No,No,No,No,Metformin,94,76,72,32.3,181.6,1.84,Normal
+49,Female,Hispanic,28.8,Middle,Sedentary,none,Never,6.3,Average,Moderate,No,No,No,No,No,No,No,Metformin,109,79,57,33.1,94.0,1.09,Overweight
+59,Female,Caucasian,18.0,Low,Sedentary,none,Never,7.0,Average,Moderate,Yes,No,No,No,No,No,No,Insulin,108,82,79,32.9,75.8,0.78,Underweight
+26,Male,African,20.7,Middle,Active,Heavy,Never,4.8,Poor,Low,Yes,No,No,No,No,No,No,none,162,96,83,31.2,94.0,0.79,Normal
+48,Female,Caucasian,22.3,Low,Moderate,Heavy,Former,6.8,Poor,Low,No,No,Yes,No,No,No,Yes,none,113,81,88,31.6,78.1,0.73,Normal
+31,Female,African,23.5,Low,Active,none,Former,4.7,Average,Moderate,No,No,No,No,No,No,No,none,121,72,61,31.1,82.3,0.81,Normal
+80,Male,Hispanic,18.0,Middle,Moderate,none,Never,6.3,Average,Low,Yes,Yes,No,No,No,No,No,Metformin,112,68,52,32.0,103.9,1.08,Underweight
+18,Female,Other,20.9,Low,Sedentary,none,Former,6.0,Average,High,No,No,No,No,No,No,No,Insulin,103,82,90,31.1,100.5,0.93,Normal
+72,Female,South Asian,26.3,Low,Active,none,Never,5.8,Good,High,No,Yes,No,No,No,No,No,Insulin,94,79,63,31.3,125.8,1.17,Overweight
+39,Female,African,18.0,Middle,Sedentary,Moderate,Current,5.3,Good,High,Yes,No,No,No,No,No,Yes,none,141,81,69,33.6,176.3,1.81,Underweight
+41,Male,South Asian,27.8,Low,Sedentary,Moderate,Current,6.3,Poor,Moderate,Yes,No,No,Yes,No,No,No,none,155,76,71,32.3,126.2,1.18,Overweight
+18,Female,South Asian,30.0,Middle,Sedentary,none,Former,7.6,Good,Moderate,Yes,Yes,No,No,No,No,No,Insulin,111,75,69,31.8,110.6,1.13,Overweight
+19,Male,African,30.6,Middle,Active,none,Former,7.7,Average,Moderate,No,No,No,No,No,No,No,Steroids,132,81,92,32.3,126.2,1.27,Obese
+29,Male,African,24.3,Middle,Sedentary,Moderate,Never,7.8,Average,High,No,No,No,Yes,No,No,No,none,104,68,73,30.4,125.1,1.31,Normal
+32,Male,Other,22.2,Middle,Sedentary,Moderate,Former,6.6,Good,Low,No,Yes,No,Yes,No,No,No,none,112,95,72,32.6,102.1,1.05,Normal
+47,Male,Hispanic,22.1,Middle,Moderate,none,Never,9.5,Average,Moderate,No,No,No,No,No,No,No,none,169,68,59,33.2,99.4,0.98,Normal
+39,Female,South Asian,35.4,High,Moderate,none,Former,6.6,Average,Moderate,No,Yes,No,Yes,No,No,No,none,134,95,66,31.7,105.9,0.96,Obese
+37,Female,Other,21.9,Middle,Sedentary,none,Never,9.4,Good,Low,Yes,No,No,No,No,No,No,Other,132,86,76,30.0,83.7,0.74,Normal
+48,Male,South Asian,25.3,Middle,Sedentary,Moderate,Current,6.0,Poor,Moderate,No,No,No,Yes,No,No,Yes,Metformin,143,82,73,31.9,97.1,0.91,Overweight
+55,Male,South Asian,26.3,Low,Sedentary,Moderate,Never,8.5,Poor,Moderate,No,No,No,Yes,No,No,Yes,none,90,102,73,31.3,99.5,0.97,Overweight
+56,Male,African,29.7,Low,Moderate,none,Former,9.0,Poor,Low,No,No,No,No,No,No,No,none,135,75,92,30.9,82.4,0.86,Overweight
+54,Female,Caucasian,24.2,Middle,Active,none,Former,6.0,Good,Low,No,No,No,No,No,Yes,No,none,116,77,70,31.8,100.4,1.07,Normal
+18,Male,South Asian,18.9,Middle,Active,none,Former,7.2,Average,Moderate,No,No,No,No,No,No,Yes,none,122,64,64,32.6,123.4,1.18,Normal
+28,Male,Hispanic,21.0,Middle,Sedentary,Moderate,Former,4.6,Good,Moderate,No,No,No,No,No,Yes,No,none,109,79,61,31.5,90.6,0.93,Normal
+48,Male,African,26.1,Middle,Moderate,Moderate,Never,5.9,Good,Low,Yes,Yes,No,No,No,No,No,Steroids,106,95,75,32.5,162.4,1.66,Overweight
+40,Female,Hispanic,20.8,Low,Active,none,Current,8.2,Poor,Low,No,No,No,No,No,No,No,none,123,81,92,32.2,173.7,1.77,Normal
+48,Male,African,26.3,Middle,Sedentary,none,Never,6.0,Poor,High,No,Yes,No,Yes,No,No,No,none,101,89,60,30.8,99.7,0.95,Overweight
+37,Male,South Asian,22.6,Middle,Active,Heavy,Never,7.9,Good,High,No,Yes,No,No,No,No,No,none,131,97,77,31.6,111.1,1.07,Normal
+66,Female,African,20.4,Low,Sedentary,none,Never,6.5,Average,Moderate,Yes,No,No,No,No,No,No,Metformin,142,81,65,31.9,147.5,1.42,Normal
+68,Male,South Asian,24.8,Middle,Moderate,Moderate,Never,6.8,Average,Moderate,Yes,No,No,Yes,No,No,No,none,128,93,63,31.5,100.3,1.03,Normal
+35,Female,South Asian,28.0,Low,Active,none,Current,7.5,Good,Moderate,No,No,No,No,No,No,No,none,136,75,68,31.1,116.5,1.19,Overweight
+58,Female,South Asian,19.9,Low,Moderate,none,Former,5.6,Average,Moderate,No,No,No,Yes,No,No,No,Metformin,90,79,74,32.0,70.5,0.62,Normal
+34,Female,South Asian,30.8,Low,Active,none,Never,6.5,Good,Moderate,Yes,Yes,No,No,No,No,No,none,140,76,66,32.2,159.6,1.61,Obese
+19,Female,Caucasian,18.0,Middle,Active,Moderate,Never,6.2,Average,Moderate,No,No,No,No,No,No,No,Other,106,76,81,32.9,72.0,0.63,Underweight
+39,Male,Caucasian,25.9,Low,Moderate,none,Former,6.5,Average,Moderate,No,No,No,No,No,No,No,none,121,72,96,32.3,110.8,1.2,Overweight
+23,Male,African,31.7,Low,Active,none,Never,8.4,Average,Low,No,No,No,No,No,No,No,none,106,73,76,30.0,92.9,0.86,Obese
+31,Female,South Asian,26.8,Middle,Sedentary,Moderate,Never,8.1,Poor,Moderate,No,No,No,No,No,No,No,none,94,72,66,31.6,77.7,0.76,Overweight
+65,Female,South Asian,24.6,High,Sedentary,none,Never,5.2,Good,High,Yes,No,No,Yes,No,No,No,Metformin,102,82,71,32.1,77.2,0.69,Normal
+29,Female,Hispanic,24.2,Low,Sedentary,none,Former,7.0,Average,Moderate,Yes,Yes,No,Yes,No,No,No,none,97,79,74,32.3,140.2,1.33,Normal
+36,Male,South Asian,31.6,High,Moderate,none,Never,9.1,Average,Low,Yes,No,No,No,No,No,Yes,Steroids,128,107,67,31.7,119.5,1.18,Obese
+56,Male,South Asian,26.6,Middle,Active,Moderate,Never,5.2,Average,Low,No,No,No,Yes,No,No,No,none,101,85,71,32.9,73.1,0.71,Overweight
+28,Female,African,38.4,Low,Sedentary,Moderate,Never,6.9,Good,Moderate,Yes,Yes,No,No,No,No,No,Insulin,125,84,68,31.4,100.6,0.98,Obese
+49,Male,Other,24.6,Low,Active,Moderate,Former,4.0,Average,Low,No,No,No,No,No,No,No,Steroids,123,75,56,30.6,93.2,0.85,Normal
+37,Female,South Asian,28.4,Low,Sedentary,Moderate,Never,9.0,Good,Moderate,Yes,No,No,No,No,Yes,No,Insulin,103,80,58,31.2,122.2,1.12,Overweight
+58,Female,Hispanic,18.0,Low,Sedentary,Moderate,Former,7.8,Average,Moderate,No,No,Yes,No,No,No,No,none,123,65,73,30.6,108.0,1.09,Underweight
+60,Male,Caucasian,30.2,Low,Sedentary,none,Never,4.1,Average,Moderate,Yes,Yes,No,No,No,Yes,No,none,109,85,75,30.0,153.2,1.55,Obese
+23,Male,Hispanic,27.3,Middle,Sedentary,Moderate,Never,5.1,Average,Moderate,No,No,No,Yes,No,No,No,none,118,98,81,31.8,84.6,0.74,Overweight
+18,Female,South Asian,19.5,Low,Moderate,none,Never,4.6,Good,High,Yes,No,No,No,No,No,No,none,116,88,60,33.1,88.5,0.84,Normal
+41,Male,Hispanic,32.4,Low,Sedentary,Moderate,Never,9.1,Average,Moderate,Yes,Yes,No,Yes,No,No,No,none,102,71,82,35.0,132.1,1.43,Obese
+35,Male,South Asian,26.7,Low,Moderate,Heavy,Former,5.7,Good,Low,No,No,No,No,No,No,Yes,Other,141,76,71,31.7,124.9,1.29,Overweight
+25,Female,Hispanic,24.4,Middle,Moderate,none,Current,5.4,Average,Moderate,No,No,No,Yes,No,No,No,none,141,86,61,33.1,74.2,0.75,Normal
+18,Male,Hispanic,27.8,Low,Active,Heavy,Current,8.5,Poor,Low,No,Yes,No,No,No,No,No,none,110,84,71,30.8,113.6,1.1,Overweight
+53,Male,South Asian,20.9,Low,Moderate,none,Former,6.0,Good,Low,Yes,No,No,Yes,No,No,No,Insulin,150,89,56,32.2,112.4,1.11,Normal
+27,Male,African,22.8,Middle,Sedentary,none,Current,9.2,Poor,High,No,No,No,No,No,Yes,No,Steroids,135,87,91,33.0,84.4,0.88,Normal
+49,Male,Hispanic,22.9,Middle,Sedentary,Moderate,Never,5.8,Average,High,No,No,No,No,No,No,No,none,113,86,62,31.0,115.6,1.23,Normal
+43,Female,Caucasian,26.7,Middle,Sedentary,Moderate,Never,4.0,Good,Moderate,No,No,No,No,No,No,No,none,114,75,69,31.9,70.3,0.7,Overweight
+37,Male,South Asian,29.0,Middle,Moderate,Moderate,Never,6.0,Average,Low,No,No,No,Yes,No,No,No,none,96,82,89,32.8,75.6,0.72,Overweight
+70,Male,African,18.0,Middle,Sedentary,none,Never,7.8,Good,Moderate,Yes,Yes,No,Yes,No,No,No,Metformin,106,77,71,31.4,124.6,1.33,Underweight
+26,Female,Caucasian,22.8,Low,Sedentary,none,Current,8.0,Good,Moderate,Yes,No,No,Yes,No,No,Yes,none,110,84,83,32.0,103.4,0.95,Normal
+29,Female,African,18.0,Middle,Moderate,Moderate,Never,6.6,Good,Low,Yes,Yes,No,No,No,No,No,none,112,84,76,33.3,101.7,1.04,Underweight
+42,Female,Hispanic,32.4,Middle,Active,Heavy,Never,6.4,Good,Moderate,Yes,Yes,No,Yes,No,No,No,none,126,88,55,31.7,125.5,1.33,Obese
+39,Male,Other,24.3,Low,Moderate,Moderate,Current,6.5,Average,Moderate,No,No,No,No,No,Yes,No,none,133,68,69,32.3,85.0,0.84,Normal
+80,Male,African,35.8,Low,Sedentary,none,Never,8.2,Average,High,No,No,No,Yes,No,No,No,none,123,84,72,31.7,77.2,0.77,Obese
+54,Female,African,32.0,Low,Moderate,none,Never,6.3,Average,Moderate,No,Yes,Yes,No,Yes,No,No,none,128,64,61,30.0,162.6,1.55,Obese
+44,Male,African,30.3,Middle,Sedentary,none,Current,7.2,Poor,Moderate,No,Yes,No,No,No,No,No,none,99,70,82,31.7,109.8,1.12,Obese
+30,Female,South Asian,34.5,Low,Sedentary,none,Never,4.0,Good,Low,Yes,No,No,No,No,No,No,Insulin,117,99,82,32.2,85.6,0.87,Obese
+46,Female,Caucasian,18.0,Middle,Active,none,Current,7.7,Average,Low,No,No,No,No,No,No,No,Insulin,107,60,88,32.1,71.5,0.71,Underweight
+31,Male,Caucasian,29.8,Middle,Sedentary,none,Never,7.4,Poor,Moderate,No,No,No,No,No,No,No,none,136,68,75,31.2,88.0,0.81,Overweight
+43,Male,South Asian,31.0,Low,Sedentary,Moderate,Never,6.7,Poor,High,No,Yes,No,No,No,No,No,none,112,61,61,31.8,117.0,1.11,Obese
+54,Male,South Asian,30.5,Low,Active,Heavy,Never,7.6,Poor,High,No,No,No,Yes,No,No,No,Metformin,139,76,82,32.1,81.6,0.79,Obese
+72,Male,Hispanic,24.1,Middle,Active,Moderate,Current,8.1,Average,High,Yes,Yes,No,No,No,No,No,Insulin,96,83,68,30.7,83.4,0.79,Normal
+61,Male,Caucasian,23.5,Middle,Moderate,none,Never,10.0,Average,Moderate,No,No,No,Yes,No,No,No,Other,134,79,78,32.3,121.6,1.18,Normal
+23,Female,South Asian,30.5,Middle,Active,none,Never,4.8,Good,Low,Yes,No,No,No,No,Yes,No,Steroids,123,89,82,32.0,100.7,1.0,Obese
+48,Female,Hispanic,23.6,Low,Moderate,none,Never,5.3,Average,High,No,No,No,No,No,Yes,Yes,none,104,84,85,33.5,76.4,0.8,Normal
+19,Male,Other,25.7,Middle,Sedentary,Moderate,Former,5.6,Average,Moderate,Yes,No,No,No,No,No,No,none,106,64,79,32.6,83.6,0.87,Overweight
+24,Male,South Asian,25.7,Middle,Moderate,Moderate,Former,6.6,Average,High,Yes,No,No,No,No,No,Yes,none,156,94,65,30.2,151.6,1.54,Overweight
+25,Male,Caucasian,27.6,Low,Sedentary,none,Never,5.4,Good,High,Yes,No,No,No,No,No,No,none,130,93,81,32.4,76.4,0.76,Overweight
+38,Female,Other,25.2,Middle,Active,none,Never,4.7,Good,Moderate,No,No,No,No,No,No,No,none,124,87,76,31.1,92.3,0.78,Overweight
+33,Male,South Asian,19.9,Middle,Active,Moderate,Never,7.3,Good,Low,Yes,No,No,No,No,No,No,none,113,91,73,32.2,82.2,0.77,Normal
+48,Male,South Asian,24.6,Low,Sedentary,none,Never,7.8,Average,Moderate,Yes,Yes,No,No,No,No,No,none,113,70,85,33.5,124.4,1.3,Normal
+27,Female,South Asian,28.0,Middle,Sedentary,none,Never,10.0,Average,Moderate,No,No,No,Yes,No,No,No,Other,113,83,75,33.8,78.2,0.82,Overweight
+58,Male,Caucasian,18.0,Middle,Active,Moderate,Never,7.4,Average,Moderate,No,No,No,Yes,No,No,No,Other,140,72,96,31.8,89.9,0.88,Underweight
+44,Female,African,23.3,Middle,Sedentary,none,Never,7.5,Average,Low,No,No,No,No,No,Yes,Yes,Metformin,103,77,76,33.0,72.6,0.73,Normal
+22,Male,South Asian,19.5,Low,Sedentary,none,Former,7.0,Good,Moderate,Yes,No,No,No,No,No,No,none,121,78,99,32.4,100.0,1.01,Normal
+31,Male,South Asian,20.9,Low,Active,Moderate,Former,7.5,Good,High,No,No,No,No,No,No,No,Insulin,131,82,70,32.4,108.5,1.15,Normal
+50,Female,African,18.0,Low,Sedentary,Moderate,Current,5.4,Average,Moderate,No,No,No,Yes,No,No,No,none,125,85,83,32.7,80.9,0.84,Underweight
+39,Male,South Asian,36.2,Middle,Moderate,none,Former,8.1,Poor,Moderate,No,No,No,No,No,No,No,none,120,87,95,31.5,139.0,1.44,Obese
+45,Male,Caucasian,30.3,Low,Sedentary,none,Never,7.8,Good,High,No,No,No,No,No,No,No,none,123,83,62,31.4,80.3,0.83,Obese
+49,Other,Caucasian,21.0,Middle,Sedentary,none,Never,7.9,Poor,Moderate,Yes,No,No,Yes,No,No,No,none,119,90,73,31.0,102.7,1.03,Normal
+47,Male,Other,18.0,Low,Sedentary,none,Never,7.7,Average,Moderate,No,Yes,No,No,No,No,No,Steroids,119,76,62,30.0,123.1,1.22,Underweight
+24,Female,Caucasian,34.1,Middle,Moderate,none,Current,7.2,Good,Moderate,Yes,No,No,Yes,No,No,No,Insulin,114,80,58,32.1,116.5,1.22,Obese
+56,Male,Other,21.5,High,Sedentary,Moderate,Never,6.8,Average,Low,Yes,No,No,No,No,No,No,none,101,80,92,32.0,93.5,0.96,Normal
+33,Female,African,23.8,Low,Sedentary,none,Never,9.7,Average,Moderate,No,No,No,No,No,No,No,none,93,75,78,30.2,91.5,0.92,Normal
+21,Male,Caucasian,24.5,Middle,Active,Moderate,Never,7.6,Poor,Moderate,Yes,No,No,Yes,No,No,No,none,122,97,84,33.1,100.1,1.04,Normal
+48,Male,South Asian,27.9,Middle,Moderate,Heavy,Former,7.6,Average,High,No,No,No,No,No,No,No,none,109,91,91,32.3,85.8,0.78,Overweight
+56,Male,Hispanic,18.0,Middle,Moderate,Moderate,Never,7.2,Average,High,Yes,No,No,No,No,No,No,none,142,76,79,32.0,123.1,1.2,Underweight
+37,Male,Hispanic,22.2,High,Sedentary,none,Never,8.2,Average,Low,No,No,No,No,No,No,No,none,127,94,66,31.1,83.1,0.77,Normal
+18,Male,South Asian,24.9,Middle,Sedentary,none,Current,6.0,Good,Moderate,No,Yes,No,Yes,No,No,Yes,Metformin,114,80,78,30.8,101.5,0.94,Normal
+36,Male,Caucasian,28.8,Low,Moderate,Heavy,Current,9.9,Good,Low,No,No,No,No,No,No,No,none,121,91,82,30.9,69.4,0.57,Overweight
+33,Female,African,22.2,Low,Moderate,none,Never,7.5,Average,High,No,No,No,No,No,No,No,Steroids,125,68,64,32.1,70.5,0.64,Normal
+52,Male,Hispanic,29.1,Low,Sedentary,none,Current,6.8,Good,Moderate,No,Yes,No,No,No,No,No,none,140,94,71,32.7,116.2,1.21,Overweight
+34,Female,Hispanic,31.5,Low,Sedentary,none,Never,8.9,Good,Moderate,No,No,No,No,No,No,No,none,107,70,59,31.2,89.6,0.92,Obese
+37,Female,African,32.4,High,Sedentary,none,Current,6.3,Average,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,Steroids,119,76,81,33.4,122.8,1.36,Obese
+45,Male,Caucasian,26.1,Middle,Sedentary,none,Current,7.6,Poor,Moderate,Yes,Yes,No,No,No,No,No,Insulin,132,75,66,32.2,107.5,1.0,Overweight
+32,Female,Caucasian,28.7,Low,Moderate,none,Current,6.8,Good,Low,No,No,No,No,No,No,No,none,124,61,81,31.6,77.4,0.66,Overweight
+34,Male,African,29.8,Low,Sedentary,none,Never,9.2,Average,Low,No,Yes,No,Yes,No,No,No,none,121,86,74,30.6,123.6,1.28,Overweight
+19,Female,Caucasian,30.7,Middle,Sedentary,Moderate,Never,6.0,Average,High,Yes,No,No,Yes,No,No,No,Insulin,93,87,86,32.6,99.5,1.0,Obese
+39,Male,South Asian,21.3,Middle,Sedentary,Heavy,Current,8.3,Good,Low,No,Yes,No,No,No,No,No,Steroids,156,84,74,31.2,100.3,1.05,Normal
+36,Female,Caucasian,22.9,Middle,Active,none,Former,6.3,Average,High,Yes,No,No,No,No,No,No,none,152,85,74,30.0,134.8,1.28,Normal
+49,Male,South Asian,29.3,Low,Active,none,Never,8.1,Average,Moderate,No,No,No,No,No,No,No,none,135,79,77,33.5,69.2,0.69,Overweight
+29,Female,South Asian,24.2,Middle,Moderate,Heavy,Current,6.5,Poor,Moderate,No,No,No,No,No,No,Yes,none,136,76,77,32.5,111.2,1.17,Normal
+50,Male,South Asian,20.6,Low,Moderate,Moderate,Never,8.5,Average,High,No,No,No,No,No,No,No,none,118,74,80,32.3,69.2,0.63,Normal
+28,Male,Hispanic,21.5,Middle,Active,none,Never,8.5,Average,Moderate,No,No,No,No,No,No,No,Other,126,99,79,33.1,81.9,0.85,Normal
+23,Male,Hispanic,22.9,Middle,Moderate,Heavy,Never,5.1,Average,Moderate,No,No,No,No,No,No,No,none,118,85,75,31.1,95.4,0.97,Normal
+40,Other,South Asian,25.4,Low,Sedentary,none,Never,5.8,Poor,High,No,No,No,No,No,No,No,Metformin,121,75,80,30.2,73.2,0.66,Overweight
+34,Male,Other,18.0,Middle,Sedentary,none,Never,7.4,Good,Moderate,No,Yes,No,No,No,No,No,none,125,98,78,31.1,102.4,0.97,Underweight
+30,Female,Caucasian,29.5,Middle,Active,none,Former,8.7,Average,Moderate,No,No,No,No,No,Yes,Yes,none,90,73,63,32.7,77.2,0.7,Overweight
+50,Male,South Asian,27.9,Low,Moderate,none,Never,8.2,Average,High,No,No,No,No,No,No,No,none,105,79,63,30.6,82.4,0.76,Overweight
+41,Male,Hispanic,23.7,High,Sedentary,none,Never,6.1,Average,Low,No,No,No,No,No,No,No,none,128,83,70,33.7,125.3,1.28,Normal
+36,Male,African,21.2,Middle,Sedentary,none,Never,4.4,Good,Moderate,Yes,No,No,No,No,No,No,Metformin,142,61,77,31.7,75.0,0.72,Normal
+18,Male,African,24.9,Middle,Active,none,Never,7.5,Average,Moderate,Yes,No,No,No,No,No,No,none,130,78,82,30.1,121.3,1.2,Normal
+47,Male,South Asian,28.0,Low,Sedentary,Heavy,Never,6.8,Poor,Moderate,Yes,No,No,No,No,Yes,No,Steroids,113,75,95,31.5,99.4,1.0,Overweight
+43,Male,Hispanic,28.3,Middle,Active,none,Current,7.1,Average,Low,No,No,No,No,No,No,No,none,148,84,65,31.9,71.6,0.72,Overweight
+49,Female,South Asian,26.0,High,Active,none,Never,6.8,Good,High,No,Yes,No,No,No,No,No,none,104,79,86,31.3,153.8,1.52,Overweight
+57,Male,Caucasian,33.4,Middle,Sedentary,none,Never,6.3,Average,Moderate,No,No,No,Yes,No,Yes,No,none,139,62,84,31.9,140.1,1.42,Obese
+47,Female,South Asian,27.4,Low,Sedentary,Moderate,Never,6.0,Poor,Moderate,Yes,Yes,No,No,No,No,No,none,151,74,68,31.8,125.1,1.23,Overweight
+65,Female,African,19.9,Middle,Moderate,none,Former,6.1,Poor,Low,Yes,No,No,No,No,No,No,none,126,88,66,30.9,94.7,0.94,Normal
+24,Female,Hispanic,22.1,Low,Moderate,Heavy,Never,8.3,Average,Moderate,Yes,No,No,No,No,No,No,none,100,89,76,32.1,76.2,0.66,Normal
+43,Female,Other,23.2,Low,Sedentary,none,Never,5.0,Poor,Low,No,No,No,No,No,No,No,none,125,80,81,30.4,91.0,0.82,Normal
+42,Male,South Asian,23.5,High,Sedentary,none,Former,9.4,Poor,Low,No,No,No,No,No,Yes,Yes,Insulin,90,64,63,32.1,69.9,0.75,Normal
+56,Male,Hispanic,28.5,Low,Moderate,none,Never,9.5,Good,High,No,No,No,No,No,No,Yes,Metformin,102,73,93,31.3,123.1,1.17,Overweight
+24,Female,Hispanic,20.5,Low,Moderate,none,Never,6.0,Good,Low,No,Yes,No,No,No,No,Yes,none,91,91,52,30.0,103.7,1.0,Normal
+43,Female,South Asian,30.5,Middle,Moderate,Moderate,Former,4.0,Good,High,Yes,No,No,No,No,No,No,none,102,80,83,32.3,79.1,0.89,Obese
+47,Male,Caucasian,30.0,Middle,Sedentary,none,Never,10.0,Average,Moderate,No,No,No,No,No,Yes,No,none,125,60,81,30.9,125.6,1.26,Overweight
+49,Male,South Asian,24.0,Low,Active,Moderate,Current,9.3,Average,Moderate,Yes,No,No,No,No,No,No,Other,107,81,66,31.8,84.7,0.85,Normal
+28,Female,Hispanic,20.6,Middle,Sedentary,none,Never,7.4,Average,Moderate,Yes,Yes,No,No,No,No,No,none,100,77,82,33.4,150.6,1.55,Normal
+29,Male,South Asian,23.2,Middle,Moderate,Moderate,Never,8.1,Poor,Moderate,No,No,No,No,No,Yes,No,none,115,104,94,31.3,112.5,1.07,Normal
+35,Male,Hispanic,31.7,Low,Sedentary,none,Never,8.3,Average,Low,No,No,No,No,No,No,No,none,91,70,72,31.8,149.1,1.45,Obese
+38,Female,Caucasian,27.7,Low,Moderate,none,Never,4.0,Good,Moderate,No,Yes,No,No,No,No,No,none,98,61,78,33.5,105.4,1.06,Overweight
+60,Female,Other,31.2,Low,Sedentary,none,Current,7.3,Good,High,Yes,Yes,Yes,No,No,No,No,Metformin,103,68,83,34.0,109.5,1.16,Obese
+24,Female,Other,18.9,Middle,Active,none,Never,10.0,Poor,High,Yes,Yes,No,No,No,Yes,No,none,105,81,88,31.9,75.9,0.69,Normal
+60,Female,South Asian,30.2,Middle,Active,none,Never,7.7,Good,Moderate,No,Yes,No,No,No,No,Yes,none,140,77,80,35.0,82.3,0.9,Obese
+48,Female,Hispanic,27.3,Low,Sedentary,none,Current,10.0,Average,Low,No,No,No,No,No,No,No,Metformin,103,98,68,33.5,98.6,0.99,Overweight
+55,Male,Other,25.8,Middle,Sedentary,Moderate,Never,8.7,Good,Moderate,Yes,No,No,Yes,No,No,Yes,Metformin,133,73,73,31.0,81.2,0.77,Overweight
+18,Male,South Asian,30.8,Low,Moderate,none,Never,6.4,Poor,Moderate,No,Yes,No,No,No,No,No,Metformin,108,68,66,31.4,119.3,1.14,Obese
+40,Female,Hispanic,18.0,Middle,Moderate,Moderate,Never,7.3,Average,High,No,No,No,No,Yes,No,No,Metformin,127,91,80,33.1,91.1,0.95,Underweight
+26,Female,South Asian,22.1,Middle,Sedentary,Moderate,Never,7.1,Good,High,No,No,No,No,No,No,No,none,110,84,73,30.0,125.3,1.17,Normal
+42,Female,Other,29.2,Middle,Sedentary,Moderate,Never,8.6,Poor,Moderate,No,No,No,No,No,No,No,none,120,66,59,32.3,75.4,0.71,Overweight
+47,Female,Other,25.6,Middle,Moderate,Heavy,Never,8.4,Average,Moderate,No,No,No,No,No,No,No,Steroids,148,89,80,32.3,111.4,1.09,Overweight
+49,Male,South Asian,18.0,Middle,Sedentary,none,Never,6.9,Average,Moderate,No,No,No,Yes,No,No,No,Metformin,129,80,87,31.0,102.6,0.97,Underweight
+40,Male,South Asian,26.4,Middle,Active,Moderate,Current,7.5,Average,High,No,Yes,No,Yes,No,No,Yes,Steroids,123,64,75,33.8,105.0,1.06,Overweight
+45,Female,Hispanic,30.7,Low,Moderate,none,Never,6.6,Average,Moderate,No,No,No,Yes,Yes,No,No,none,95,83,98,32.3,153.0,1.52,Obese
+30,Male,Caucasian,29.7,Middle,Sedentary,Moderate,Former,4.0,Average,Low,No,No,No,No,No,No,No,none,127,93,84,31.3,135.1,1.46,Overweight
+23,Male,Other,28.1,Middle,Active,none,Current,7.4,Average,Moderate,No,No,No,Yes,No,No,No,Other,110,79,97,32.1,125.1,1.28,Overweight
+18,Male,Hispanic,27.1,High,Sedentary,none,Never,7.4,Good,High,No,No,No,No,No,No,No,Insulin,128,97,62,31.9,105.3,1.1,Overweight
+22,Female,African,18.0,Middle,Active,Moderate,Current,9.9,Average,Low,Yes,No,No,Yes,No,No,No,none,97,78,76,32.4,89.2,0.91,Underweight
+33,Female,Hispanic,23.9,Low,Sedentary,none,Never,6.7,Average,High,No,No,No,No,No,No,Yes,Insulin,111,68,80,32.5,134.8,1.41,Normal
+29,Female,South Asian,26.8,Middle,Sedentary,none,Former,8.2,Good,Low,No,No,No,No,No,No,No,Metformin,125,75,52,33.2,99.4,1.0,Overweight
+58,Female,African,24.7,Middle,Sedentary,none,Former,7.0,Average,High,No,No,No,No,No,Yes,No,Insulin,98,73,81,32.1,88.1,0.86,Normal
+34,Female,Other,30.6,Middle,Moderate,none,Current,7.4,Good,Moderate,Yes,No,Yes,No,No,No,No,Insulin,115,98,79,31.5,102.8,1.11,Obese
+57,Female,Caucasian,21.7,Middle,Active,Moderate,Former,6.8,Average,Low,No,No,No,Yes,No,No,Yes,none,143,92,63,33.9,81.7,0.92,Normal
+39,Male,Other,18.0,Middle,Sedentary,none,Former,7.2,Poor,Moderate,No,No,No,No,No,No,No,none,116,81,69,33.5,139.7,1.43,Underweight
+20,Female,Hispanic,26.6,Middle,Sedentary,none,Former,7.4,Average,High,No,No,Yes,No,No,No,No,Metformin,112,63,76,33.5,106.5,1.18,Overweight
+19,Female,South Asian,25.1,Middle,Sedentary,none,Never,7.0,Good,Moderate,No,Yes,No,No,No,No,No,none,90,63,95,32.4,124.8,1.32,Overweight
+34,Male,Hispanic,24.2,Middle,Active,none,Never,5.0,Poor,High,Yes,Yes,No,No,No,No,No,Metformin,111,81,62,33.6,74.4,0.82,Normal
+38,Male,Hispanic,23.3,Low,Sedentary,Heavy,Current,7.5,Average,Low,Yes,No,No,No,No,Yes,No,Metformin,103,76,74,30.6,105.7,1.11,Normal
+18,Male,South Asian,24.3,Middle,Active,none,Never,9.0,Average,Moderate,No,No,No,No,No,No,No,none,122,91,90,33.0,83.4,0.79,Normal
+48,Female,South Asian,23.9,Middle,Sedentary,Heavy,Current,7.7,Average,High,Yes,No,No,No,No,No,No,none,108,100,78,32.5,100.4,1.08,Normal
+43,Female,South Asian,33.3,Middle,Moderate,Heavy,Never,6.3,Average,Moderate,No,No,No,No,No,No,Yes,none,140,60,70,33.3,87.4,0.97,Obese
+70,Male,South Asian,20.2,Low,Moderate,Moderate,Never,5.7,Poor,Low,No,No,No,No,No,Yes,No,none,134,68,71,31.6,81.5,0.84,Normal
+44,Male,South Asian,22.0,High,Active,Moderate,Never,8.0,Poor,Moderate,No,No,No,No,No,No,No,Metformin,111,67,83,31.1,96.5,0.97,Normal
+18,Male,Other,26.1,Low,Active,Moderate,Current,7.2,Poor,Moderate,No,No,No,No,No,No,No,none,121,73,82,31.7,87.8,0.81,Overweight
+39,Male,Caucasian,30.0,Middle,Sedentary,Heavy,Former,8.5,Poor,Moderate,No,Yes,No,No,No,No,No,Insulin,128,76,73,32.1,118.1,1.16,Overweight
+18,Male,Hispanic,21.1,Middle,Sedentary,none,Current,9.4,Average,Moderate,No,No,No,No,No,No,No,none,108,82,75,30.0,82.4,0.78,Normal
+33,Female,South Asian,18.7,Low,Sedentary,Moderate,Current,6.4,Good,Moderate,No,No,No,No,No,No,No,none,125,80,92,33.9,105.1,1.11,Normal
+43,Female,Caucasian,25.2,Low,Sedentary,Heavy,Never,8.3,Good,Moderate,No,Yes,No,No,No,No,No,none,110,107,92,31.2,125.6,1.22,Overweight
+34,Female,Caucasian,26.5,Middle,Moderate,none,Former,7.0,Poor,Moderate,Yes,Yes,No,No,No,No,Yes,none,90,64,73,31.8,106.4,1.09,Overweight
+24,Female,Hispanic,23.0,Middle,Sedentary,Moderate,Current,9.0,Good,Moderate,Yes,Yes,No,Yes,No,No,No,none,135,92,81,30.0,110.2,1.02,Normal
+43,Female,Other,24.7,Middle,Sedentary,none,Never,5.1,Poor,Moderate,Yes,No,Yes,No,No,No,No,Steroids,137,85,79,32.7,93.4,0.92,Normal
+22,Female,Caucasian,28.6,Middle,Sedentary,none,Never,6.7,Average,High,No,Yes,No,No,No,No,No,Metformin,106,73,78,32.1,170.2,1.82,Overweight
+36,Female,Hispanic,21.5,Low,Active,none,Never,7.1,Average,High,No,No,No,Yes,No,Yes,No,none,116,94,87,31.2,193.0,1.93,Normal
+26,Male,Caucasian,25.8,Middle,Sedentary,Moderate,Never,4.4,Good,Moderate,No,No,No,No,No,Yes,No,none,106,68,69,32.3,141.9,1.43,Overweight
+25,Female,South Asian,27.2,Low,Sedentary,Moderate,Never,6.2,Poor,Moderate,Yes,No,No,Yes,No,No,Yes,none,104,75,74,31.3,101.9,1.05,Overweight
+41,Male,South Asian,24.4,Middle,Sedentary,none,Former,7.5,Average,Moderate,No,Yes,No,Yes,No,Yes,No,Metformin,90,82,70,32.6,100.3,1.02,Normal
+37,Female,Caucasian,28.8,Low,Active,Moderate,Never,9.2,Good,Low,Yes,No,No,Yes,No,No,No,none,122,91,62,32.8,81.5,0.77,Overweight
+39,Male,South Asian,22.1,Middle,Sedentary,none,Never,5.4,Good,Moderate,No,No,No,Yes,No,No,No,none,131,62,77,32.4,89.3,0.89,Normal
+48,Male,South Asian,21.3,Low,Sedentary,Moderate,Never,4.9,Average,Moderate,No,No,No,No,No,No,Yes,none,111,78,73,30.6,79.2,0.79,Normal
+54,Male,Caucasian,20.3,Low,Moderate,none,Never,5.8,Average,Moderate,No,No,No,No,No,No,No,Insulin,116,60,73,31.6,112.6,1.12,Normal
+66,Male,African,25.2,Low,Moderate,Moderate,Never,5.0,Good,Moderate,No,Yes,No,No,No,Yes,No,none,138,62,74,30.4,123.3,1.12,Overweight
+31,Female,South Asian,28.6,Middle,Sedentary,none,Never,7.2,Average,High,No,No,No,Yes,No,No,No,none,145,94,77,31.5,78.5,0.8,Overweight
+56,Female,South Asian,21.4,Low,Sedentary,Moderate,Never,10.0,Poor,Low,No,No,Yes,No,No,Yes,No,Steroids,116,85,93,32.8,85.1,0.86,Normal
+43,Female,South Asian,20.6,High,Sedentary,none,Never,4.6,Good,High,No,No,No,No,No,No,No,none,115,74,61,32.9,85.1,0.89,Normal
+44,Male,Caucasian,36.7,Low,Sedentary,Moderate,Former,5.1,Average,High,Yes,No,No,No,No,No,No,none,107,84,86,30.0,133.7,1.21,Obese
+23,Male,Hispanic,29.0,Middle,Active,Moderate,Current,7.0,Average,Low,Yes,Yes,No,Yes,No,No,No,Steroids,107,97,68,32.5,101.0,1.06,Overweight
+41,Male,Caucasian,27.8,Middle,Moderate,Moderate,Never,7.7,Poor,Low,No,No,No,No,No,Yes,No,Other,114,66,96,32.8,76.4,0.81,Overweight
+34,Female,South Asian,27.0,Middle,Sedentary,Moderate,Current,6.4,Good,Moderate,No,No,Yes,Yes,No,Yes,No,Metformin,96,88,80,31.9,118.5,1.16,Overweight
+44,Female,South Asian,26.8,Middle,Sedentary,Heavy,Never,5.8,Average,Moderate,Yes,No,No,Yes,No,No,No,Other,125,82,71,32.8,75.3,0.79,Overweight
+44,Male,African,31.8,Middle,Moderate,none,Current,6.3,Average,High,No,No,No,No,No,No,No,Steroids,138,84,69,33.1,190.6,1.84,Obese
+43,Female,Hispanic,28.4,Middle,Active,Heavy,Current,6.1,Average,Moderate,No,Yes,No,No,No,Yes,No,none,115,94,61,30.0,100.6,1.01,Overweight
+78,Male,South Asian,31.0,High,Sedentary,none,Former,5.5,Good,Moderate,No,No,No,Yes,No,No,No,Metformin,124,82,66,32.2,111.3,1.09,Obese
+60,Male,Caucasian,21.1,Middle,Sedentary,none,Current,4.9,Good,Low,No,No,No,No,No,No,Yes,none,108,79,90,32.5,114.9,1.09,Normal
+77,Female,South Asian,29.3,Middle,Sedentary,Heavy,Never,7.2,Average,High,No,No,No,Yes,No,Yes,No,Insulin,138,67,84,32.5,100.2,1.03,Overweight
+24,Female,South Asian,33.4,High,Sedentary,Moderate,Current,6.6,Average,Moderate,No,Yes,Yes,No,No,Yes,No,Metformin,135,79,68,32.7,135.5,1.39,Obese
+36,Female,South Asian,21.9,Middle,Sedentary,none,Never,7.8,Average,Low,No,No,No,No,No,No,No,Metformin,99,70,76,32.8,100.2,1.06,Normal
+42,Male,South Asian,29.4,Middle,Sedentary,none,Never,7.7,Average,Moderate,No,Yes,No,No,No,No,No,none,120,88,72,32.7,125.4,1.3,Overweight
+25,Female,Other,29.0,Middle,Sedentary,Moderate,Current,9.6,Good,Low,No,No,No,No,No,No,No,none,114,91,75,33.7,125.5,1.3,Overweight
+19,Male,South Asian,36.4,Middle,Sedentary,Heavy,Never,7.2,Average,High,Yes,No,No,No,No,No,No,Metformin,103,67,68,33.2,125.5,1.23,Obese
+35,Female,Caucasian,25.1,Low,Sedentary,none,Never,7.2,Average,Low,No,No,No,Yes,Yes,No,No,Insulin,134,83,83,30.7,74.7,0.78,Overweight
+59,Female,South Asian,26.0,Low,Sedentary,none,Never,9.6,Average,Low,Yes,Yes,Yes,No,No,No,No,Metformin,126,71,86,32.0,167.4,1.78,Overweight
+21,Female,African,22.1,Middle,Moderate,none,Current,6.9,Average,Low,No,No,No,No,No,Yes,No,Metformin,108,67,85,31.7,121.3,1.16,Normal
+43,Female,Hispanic,20.5,Low,Sedentary,none,Never,8.6,Average,Low,No,No,No,No,No,No,No,none,144,85,82,32.5,110.4,1.16,Normal
+80,Male,South Asian,21.4,Middle,Active,none,Never,7.4,Average,Moderate,Yes,No,No,No,No,No,No,none,131,73,74,32.7,75.9,0.66,Normal
+44,Female,South Asian,19.7,Low,Sedentary,none,Never,4.7,Poor,Low,No,Yes,No,Yes,Yes,Yes,No,none,97,93,72,32.0,119.4,1.17,Normal
+62,Male,Other,30.3,Low,Sedentary,none,Never,7.1,Average,High,No,No,No,Yes,No,No,No,none,135,88,81,31.5,105.2,1.06,Obese
+32,Female,Caucasian,25.4,Middle,Sedentary,none,Never,9.2,Average,Moderate,No,No,No,No,Yes,No,No,Steroids,111,82,70,32.3,103.7,1.06,Overweight
+53,Female,Hispanic,28.3,Low,Active,Moderate,Current,4.2,Average,Moderate,Yes,No,No,Yes,Yes,No,No,Metformin,94,97,75,33.5,90.1,0.92,Overweight
+30,Male,Caucasian,22.6,Low,Sedentary,Moderate,Current,5.8,Average,Low,Yes,Yes,No,No,No,No,Yes,none,98,63,68,33.7,157.5,1.66,Normal
+18,Female,South Asian,21.4,Middle,Moderate,none,Current,7.3,Poor,Moderate,No,No,No,No,No,No,No,Metformin,126,86,87,32.5,84.9,0.88,Normal
+40,Male,South Asian,29.4,Middle,Moderate,none,Former,6.8,Poor,Moderate,No,No,No,No,No,No,No,none,115,96,74,32.6,112.2,1.15,Overweight
+57,Female,Caucasian,24.1,Middle,Sedentary,none,Never,8.3,Good,Moderate,No,No,No,No,No,No,No,none,113,79,68,31.1,125.1,1.31,Normal
+60,Female,South Asian,18.6,Low,Sedentary,Moderate,Never,9.8,Poor,Moderate,Yes,No,No,No,No,No,No,none,107,83,74,30.9,125.4,1.32,Normal
+39,Male,South Asian,27.1,High,Active,none,Never,6.0,Average,Low,No,Yes,No,No,No,No,No,none,128,73,65,30.9,117.4,1.13,Overweight
+51,Male,African,25.6,Low,Sedentary,none,Never,6.8,Poor,High,No,Yes,No,No,No,No,No,none,107,60,84,31.8,83.3,0.79,Overweight
+24,Female,South Asian,20.9,Low,Active,Moderate,Never,4.1,Poor,Low,Yes,No,Yes,No,No,No,Yes,Other,101,97,73,31.1,166.6,1.7,Normal
+18,Male,South Asian,26.8,Low,Moderate,Heavy,Never,4.0,Poor,Moderate,No,No,No,No,No,No,Yes,Metformin,107,67,71,31.0,79.3,0.67,Overweight
+25,Male,South Asian,27.6,High,Sedentary,Heavy,Never,9.3,Good,Low,No,No,No,No,No,No,No,none,103,67,81,32.9,102.4,1.1,Overweight
+29,Male,Caucasian,26.4,Low,Moderate,none,Current,6.4,Average,Low,Yes,No,No,No,No,Yes,No,Insulin,102,90,66,30.1,82.4,0.77,Overweight
+26,Male,South Asian,30.4,Middle,Moderate,Moderate,Never,8.9,Average,Moderate,Yes,No,No,No,No,No,Yes,Insulin,126,69,89,32.4,100.0,0.99,Obese
+37,Female,Caucasian,29.3,Middle,Sedentary,Heavy,Former,7.5,Poor,High,No,No,No,No,No,No,No,Metformin,109,79,90,32.5,124.4,1.27,Overweight
+54,Female,South Asian,32.2,Middle,Moderate,none,Never,9.7,Poor,Moderate,No,No,No,No,No,No,No,none,112,96,61,32.2,83.5,0.85,Obese
+59,Female,African,26.6,Middle,Moderate,Moderate,Never,7.8,Good,Moderate,Yes,Yes,Yes,No,Yes,Yes,No,none,104,74,82,33.1,103.4,1.06,Overweight
+49,Female,South Asian,23.2,Low,Moderate,Moderate,Former,6.7,Average,Moderate,No,Yes,No,Yes,No,No,No,none,136,88,72,32.1,100.1,0.99,Normal
+34,Male,Other,28.2,Middle,Moderate,none,Never,9.1,Average,High,Yes,No,No,No,No,No,No,none,142,84,74,33.0,98.7,1.04,Overweight
+46,Male,Hispanic,26.4,High,Moderate,Heavy,Former,7.3,Good,Low,No,Yes,No,No,No,No,Yes,none,110,84,61,30.0,102.3,1.05,Overweight
+26,Female,Hispanic,30.1,Middle,Sedentary,none,Never,7.8,Average,Moderate,No,Yes,No,Yes,No,No,No,none,102,74,83,32.2,109.2,1.06,Obese
+43,Female,Caucasian,31.0,High,Active,none,Former,7.3,Good,Moderate,Yes,Yes,No,No,No,No,No,none,133,78,81,31.7,77.1,0.82,Obese
+61,Male,African,34.5,Low,Active,none,Current,8.8,Average,Moderate,No,No,No,No,No,No,No,Steroids,134,91,63,32.9,82.3,0.86,Obese
+34,Female,Caucasian,21.4,Middle,Sedentary,none,Never,5.2,Average,High,No,No,No,No,No,No,No,none,119,81,79,32.3,69.8,0.78,Normal
+25,Male,African,28.3,Middle,Sedentary,none,Never,7.6,Good,Moderate,Yes,Yes,No,No,No,No,No,none,144,69,90,31.6,117.4,1.21,Overweight
+18,Male,South Asian,21.0,Middle,Moderate,Moderate,Never,8.4,Average,Moderate,No,No,No,No,No,No,No,none,112,61,72,32.7,75.5,0.65,Normal
+27,Female,South Asian,22.6,Middle,Sedentary,none,Never,6.0,Good,Moderate,No,No,No,No,No,No,No,Insulin,132,70,72,31.5,69.8,0.75,Normal
+19,Female,Other,24.4,Low,Moderate,none,Former,7.5,Average,Moderate,No,Yes,No,No,No,No,No,Metformin,90,83,83,32.1,117.6,1.3,Normal
+64,Female,Caucasian,28.5,Low,Active,Heavy,Former,7.2,Good,Low,No,No,No,Yes,No,No,No,none,97,91,69,31.8,81.1,0.76,Overweight
+22,Male,Other,28.6,Low,Sedentary,Moderate,Former,6.6,Good,Moderate,No,No,No,No,No,No,No,Other,112,85,66,32.6,75.0,0.73,Overweight
+43,Female,South Asian,22.5,Low,Sedentary,none,Never,6.7,Average,Moderate,No,No,No,No,No,No,Yes,none,109,91,75,30.9,87.9,0.72,Normal
+50,Male,Hispanic,23.4,High,Sedentary,none,Never,7.2,Good,High,No,No,No,Yes,No,No,No,none,97,74,77,30.0,100.4,0.88,Normal
+51,Male,Other,22.1,Middle,Sedentary,none,Never,6.5,Average,Moderate,No,No,No,No,No,No,No,Steroids,114,73,100,34.0,82.9,0.84,Normal
+63,Male,African,33.5,High,Sedentary,none,Current,8.4,Poor,Moderate,No,No,No,Yes,No,No,No,Steroids,141,88,82,31.2,116.6,1.14,Obese
+18,Male,South Asian,24.0,Low,Sedentary,Moderate,Former,5.9,Good,Moderate,No,Yes,No,No,No,No,No,none,140,102,72,31.9,143.2,1.42,Normal
+45,Male,South Asian,29.4,Middle,Moderate,Moderate,Current,6.5,Poor,Moderate,Yes,No,No,No,No,No,No,Steroids,110,97,82,30.9,113.9,1.14,Overweight
+33,Male,Caucasian,27.8,Low,Sedentary,none,Never,6.2,Poor,High,No,Yes,No,No,No,No,No,none,123,84,67,32.7,183.3,1.79,Overweight
+41,Female,South Asian,23.7,Low,Moderate,Moderate,Former,4.0,Average,Low,Yes,No,No,No,No,No,No,Metformin,139,94,71,31.1,79.6,0.8,Normal
+56,Female,African,18.0,Low,Sedentary,none,Never,7.5,Poor,Moderate,No,Yes,No,Yes,No,No,No,none,140,101,72,32.5,103.3,1.04,Underweight
+58,Female,African,22.7,Middle,Sedentary,none,Former,7.1,Average,Moderate,No,Yes,No,Yes,Yes,No,No,none,96,89,50,31.5,102.7,1.0,Normal
+45,Male,Caucasian,21.7,Low,Sedentary,none,Never,8.7,Average,Low,Yes,No,No,No,No,No,No,none,133,60,65,31.1,94.3,0.94,Normal
+32,Male,African,27.4,Middle,Sedentary,none,Former,6.7,Average,High,Yes,No,No,No,No,No,No,Other,151,96,70,32.0,84.4,0.9,Overweight
+18,Male,African,21.4,Low,Sedentary,Moderate,Never,7.6,Good,Low,No,No,No,Yes,No,No,No,none,115,75,81,30.8,76.8,0.75,Normal
+19,Female,African,30.0,Low,Sedentary,none,Never,6.7,Average,High,Yes,Yes,No,No,No,No,No,Other,114,92,83,32.8,141.5,1.45,Overweight
+58,Male,South Asian,18.0,Middle,Sedentary,Heavy,Never,6.8,Average,Moderate,Yes,No,No,No,No,No,No,Metformin,122,76,85,31.4,73.6,0.73,Underweight
+35,Male,Other,25.1,Middle,Active,Moderate,Never,8.5,Average,Moderate,No,No,No,No,No,No,No,Other,148,67,85,31.9,85.8,0.94,Overweight
+34,Female,South Asian,24.9,Low,Sedentary,none,Never,4.5,Average,Low,No,No,No,No,No,No,No,Insulin,124,61,77,31.4,126.2,1.37,Normal
+58,Female,Caucasian,29.8,Middle,Sedentary,Moderate,Current,5.9,Average,Moderate,No,No,No,Yes,No,No,No,none,97,90,83,31.8,89.1,0.98,Overweight
+48,Female,South Asian,23.9,High,Sedentary,Moderate,Never,7.0,Poor,Moderate,No,Yes,Yes,No,No,No,No,Metformin,116,81,84,33.6,112.9,1.2,Normal
+24,Male,South Asian,25.3,Middle,Moderate,none,Never,8.8,Average,Moderate,Yes,No,No,Yes,No,No,No,none,121,90,73,33.1,92.8,0.97,Overweight
+54,Male,Other,19.2,High,Sedentary,none,Never,5.7,Average,Moderate,No,No,No,Yes,No,No,No,none,105,83,61,31.7,134.1,1.42,Normal
+53,Female,African,27.6,Low,Sedentary,none,Never,9.3,Average,Low,No,No,No,No,No,No,No,none,113,64,79,30.6,91.8,0.91,Overweight
+30,Female,Hispanic,30.9,Middle,Sedentary,Heavy,Never,5.4,Average,Moderate,No,No,Yes,No,No,No,No,Steroids,112,70,74,30.5,75.3,0.82,Obese
+32,Female,South Asian,18.7,Low,Sedentary,none,Current,8.2,Good,Moderate,No,No,No,No,No,No,No,none,133,85,65,32.7,86.6,0.95,Normal
+42,Male,Other,27.0,Middle,Sedentary,none,Never,8.0,Average,Moderate,No,No,No,No,No,Yes,No,none,120,92,86,32.4,112.0,1.14,Overweight
+30,Male,Hispanic,28.6,Middle,Moderate,none,Current,4.0,Average,Moderate,No,No,No,No,No,No,No,none,129,82,60,31.4,78.2,0.94,Overweight
+47,Female,South Asian,21.4,Middle,Sedentary,Moderate,Never,7.5,Good,Low,No,No,No,No,No,No,No,none,130,84,67,31.5,86.1,0.81,Normal
+23,Male,South Asian,38.5,Middle,Sedentary,Heavy,Never,7.5,Good,Moderate,No,No,No,Yes,No,No,No,none,123,97,77,31.9,132.1,1.34,Obese
+36,Male,Hispanic,25.2,Middle,Active,Moderate,Current,5.6,Average,High,No,No,No,Yes,No,No,No,none,115,92,60,33.1,159.8,1.59,Overweight
+35,Male,Hispanic,20.2,Middle,Sedentary,Moderate,Never,5.2,Average,Low,No,No,No,Yes,No,No,No,none,147,82,92,31.6,98.7,0.97,Normal
+54,Female,African,26.5,Middle,Sedentary,Moderate,Former,7.3,Good,Moderate,No,No,No,Yes,No,Yes,No,none,162,60,64,32.6,93.6,1.0,Overweight
+24,Male,Hispanic,19.4,Low,Moderate,Moderate,Former,7.5,Good,Moderate,No,No,No,Yes,No,No,No,none,120,99,72,32.1,111.7,1.16,Normal
+37,Female,Hispanic,20.5,Low,Moderate,Heavy,Never,8.8,Good,Low,No,No,No,No,No,No,No,none,96,77,67,32.7,80.7,0.77,Normal
+52,Female,South Asian,25.5,Low,Active,Moderate,Never,8.8,Good,Moderate,No,Yes,No,Yes,No,No,No,none,115,74,70,32.1,155.4,1.59,Overweight
+72,Male,Hispanic,30.3,Middle,Active,none,Former,8.4,Average,Low,No,Yes,No,Yes,No,No,No,none,122,79,72,31.1,112.7,1.08,Obese
+52,Female,South Asian,20.9,Low,Active,none,Never,8.9,Average,Low,No,No,No,No,No,Yes,No,Metformin,122,71,74,31.9,79.7,0.88,Normal
+45,Male,South Asian,30.2,Low,Sedentary,none,Never,4.7,Poor,Low,No,No,No,No,No,Yes,No,none,110,81,76,30.4,212.4,2.0,Obese
+37,Female,Caucasian,21.4,Low,Sedentary,none,Current,6.5,Poor,High,Yes,No,No,Yes,No,No,No,Metformin,124,74,73,31.7,171.7,1.69,Normal
+44,Female,African,24.4,Middle,Active,Moderate,Never,8.3,Good,Moderate,No,No,No,No,No,No,No,Other,130,81,69,31.8,150.7,1.54,Normal
+36,Other,Other,27.8,Middle,Moderate,none,Never,9.0,Poor,High,No,No,No,Yes,No,No,No,none,90,82,87,30.4,99.5,0.94,Overweight
+41,Female,South Asian,18.0,Low,Active,none,Current,6.1,Good,High,No,No,No,Yes,No,No,No,none,108,60,72,31.4,100.0,0.97,Underweight
+18,Female,African,23.9,Middle,Active,Moderate,Never,8.0,Average,High,No,Yes,No,Yes,No,Yes,No,none,127,87,77,31.5,171.7,1.77,Normal
+40,Male,Other,34.1,Middle,Sedentary,none,Never,9.1,Average,High,Yes,No,No,Yes,No,No,No,Other,113,84,71,32.2,114.5,1.07,Obese
+59,Female,Caucasian,27.0,Middle,Sedentary,none,Never,7.7,Average,Moderate,No,No,No,No,No,No,No,none,114,74,87,32.0,69.1,0.65,Overweight
+49,Female,Hispanic,26.0,Low,Moderate,none,Never,7.4,Average,High,No,Yes,No,No,No,No,No,Metformin,107,81,71,32.4,100.2,1.0,Overweight
+23,Male,Hispanic,21.7,Middle,Moderate,Moderate,Never,7.0,Good,Moderate,No,No,No,No,No,No,No,Metformin,120,100,75,32.7,99.6,1.09,Normal
+18,Female,African,29.1,Middle,Active,none,Never,7.6,Average,Moderate,No,No,No,No,No,No,No,Metformin,115,66,65,30.5,92.7,0.9,Overweight
+47,Female,South Asian,21.5,Middle,Moderate,none,Current,5.1,Average,High,Yes,No,No,No,No,No,No,none,128,91,73,30.0,89.2,0.8,Normal
+57,Male,South Asian,18.0,Low,Sedentary,Moderate,Never,7.6,Poor,High,Yes,No,No,Yes,No,No,No,Metformin,127,99,84,31.1,125.4,1.22,Underweight
+54,Male,Hispanic,28.3,Middle,Active,Moderate,Never,8.7,Poor,Moderate,No,No,No,Yes,No,No,No,Steroids,115,86,73,31.7,83.6,0.88,Overweight
+64,Male,Hispanic,29.8,Middle,Sedentary,Moderate,Former,8.1,Good,Low,No,No,No,Yes,No,No,No,none,104,85,77,32.2,69.6,0.7,Overweight
+67,Male,African,20.8,Middle,Moderate,none,Never,7.8,Average,Moderate,No,No,No,No,No,No,No,Metformin,101,84,76,34.8,101.0,1.11,Normal
+25,Female,Hispanic,30.7,Middle,Active,Heavy,Never,6.7,Poor,Moderate,No,No,No,No,No,No,No,none,156,85,70,31.6,70.1,0.7,Obese
+18,Male,Other,23.9,Low,Sedentary,Moderate,Never,7.0,Average,Low,No,Yes,No,No,No,No,No,none,94,84,72,30.4,123.1,1.21,Normal
+31,Male,Hispanic,22.0,Middle,Sedentary,none,Former,5.7,Average,Low,No,No,No,No,No,No,No,Other,143,81,68,30.5,107.5,1.06,Normal
+43,Male,Other,25.1,Middle,Moderate,Moderate,Current,6.4,Good,Moderate,No,No,No,No,No,No,No,Steroids,111,69,86,31.6,86.4,0.9,Overweight
+18,Male,Caucasian,18.3,Middle,Sedentary,Moderate,Former,5.7,Average,High,Yes,No,No,No,No,No,No,none,147,79,64,30.8,88.8,0.77,Underweight
+25,Male,South Asian,21.0,Low,Sedentary,none,Never,8.1,Good,Low,Yes,No,No,No,No,No,No,none,148,79,66,32.4,76.1,0.81,Normal
+45,Male,South Asian,30.6,Middle,Moderate,none,Never,7.3,Good,Moderate,No,No,No,No,No,No,No,Metformin,123,85,76,33.1,78.1,0.8,Obese
+19,Male,South Asian,24.2,Middle,Sedentary,none,Never,7.0,Average,Moderate,No,No,No,No,No,No,No,Insulin,126,78,75,31.0,79.9,0.74,Normal
+41,Female,Hispanic,34.0,Middle,Sedentary,Moderate,Never,7.2,Poor,Low,No,No,No,No,No,No,No,none,112,74,79,32.0,122.5,1.33,Obese
+20,Female,South Asian,19.4,Middle,Moderate,none,Former,6.2,Poor,Moderate,No,No,No,No,No,No,No,Insulin,119,85,77,31.0,85.8,0.94,Normal
+41,Male,Hispanic,19.4,Low,Active,none,Current,7.8,Average,High,Yes,No,No,No,No,Yes,Yes,Metformin,119,70,83,30.9,81.9,0.72,Normal
+47,Female,Hispanic,22.8,Low,Active,Moderate,Current,5.1,Average,Moderate,No,No,No,No,No,No,No,Metformin,115,90,80,32.7,86.9,0.95,Normal
+38,Male,South Asian,22.9,Low,Sedentary,none,Never,6.0,Average,Moderate,No,Yes,No,No,No,No,No,none,118,69,91,32.8,121.6,1.19,Normal
+39,Male,African,28.6,Middle,Sedentary,Moderate,Current,6.9,Average,Moderate,Yes,No,No,Yes,No,No,No,none,114,88,80,32.2,100.2,1.08,Overweight
+40,Female,Caucasian,24.9,Low,Moderate,none,Never,6.9,Good,Moderate,No,No,No,No,Yes,No,No,none,125,82,78,30.2,118.2,1.12,Normal
+31,Female,South Asian,27.7,Low,Active,none,Never,5.9,Average,Moderate,No,No,No,Yes,No,No,No,none,114,83,70,33.1,97.2,1.0,Overweight
+26,Female,African,22.7,Middle,Moderate,none,Current,8.3,Average,Moderate,Yes,No,No,No,No,Yes,No,Insulin,134,85,92,32.6,83.6,0.82,Normal
+29,Male,Hispanic,24.5,Low,Sedentary,Moderate,Never,5.9,Average,Low,No,No,No,No,No,No,No,none,95,77,57,32.0,214.9,2.0,Normal
+59,Female,Hispanic,27.2,Middle,Active,Moderate,Former,6.7,Poor,Low,Yes,No,No,Yes,No,No,No,none,127,88,88,31.7,88.0,0.84,Overweight
+37,Male,Caucasian,18.8,Middle,Sedentary,none,Never,8.0,Good,High,No,No,No,No,No,Yes,No,none,114,86,78,31.8,101.5,0.96,Normal
+30,Female,Caucasian,31.4,Middle,Active,Moderate,Never,8.1,Good,Moderate,No,No,No,Yes,No,No,No,none,96,60,93,32.2,75.6,0.83,Obese
+49,Female,Caucasian,18.4,Middle,Sedentary,none,Current,5.0,Average,Moderate,No,Yes,No,No,No,Yes,No,none,109,97,70,32.8,114.7,1.12,Underweight
+38,Female,Caucasian,27.9,Low,Sedentary,none,Current,4.7,Poor,Low,Yes,No,No,No,No,No,No,none,137,88,73,31.3,93.0,1.02,Overweight
+30,Male,African,25.9,Middle,Sedentary,none,Never,6.5,Average,Moderate,No,Yes,No,No,No,Yes,No,Insulin,90,76,81,33.6,71.6,0.65,Overweight
+49,Female,Other,31.1,Low,Sedentary,none,Former,9.8,Average,Low,No,No,No,No,Yes,Yes,No,none,116,72,90,30.4,124.4,1.21,Obese
+33,Female,Hispanic,27.1,Middle,Active,Moderate,Never,8.0,Good,Moderate,No,No,No,Yes,No,Yes,No,none,147,89,76,30.9,165.2,1.61,Overweight
+21,Male,South Asian,18.0,Low,Sedentary,none,Never,7.7,Average,Low,No,No,No,No,No,No,No,none,141,80,71,30.8,74.9,0.73,Underweight
+55,Male,African,38.7,Middle,Sedentary,none,Never,5.7,Average,Moderate,No,No,No,No,No,No,No,none,126,79,60,32.1,124.9,1.31,Obese
+40,Male,South Asian,23.7,Middle,Active,none,Never,6.3,Good,High,No,No,No,Yes,No,No,Yes,none,140,74,78,32.5,81.9,0.81,Normal
+47,Female,Other,27.9,High,Sedentary,none,Never,8.4,Average,Moderate,No,Yes,No,No,No,No,No,none,157,98,54,32.3,101.6,1.09,Overweight
+37,Male,South Asian,18.0,Low,Moderate,none,Never,7.3,Average,Moderate,No,No,No,No,No,No,No,Metformin,120,78,84,31.6,71.8,0.76,Underweight
+49,Female,Caucasian,27.7,Low,Sedentary,Moderate,Never,6.5,Average,High,Yes,No,No,No,No,Yes,No,Steroids,105,70,78,31.4,73.3,0.74,Overweight
+52,Male,South Asian,20.5,Low,Active,none,Never,5.1,Poor,Low,No,No,No,No,No,No,Yes,Metformin,127,69,74,33.4,91.1,0.96,Normal
+60,Male,African,25.6,Low,Sedentary,Moderate,Former,7.9,Average,Moderate,No,Yes,No,Yes,No,Yes,No,none,132,85,88,31.7,105.0,1.03,Overweight
+33,Male,South Asian,32.4,Middle,Sedentary,none,Never,7.1,Good,Moderate,No,No,No,Yes,No,Yes,No,Other,149,94,75,32.2,69.7,0.64,Obese
+68,Male,Caucasian,24.6,Low,Sedentary,Moderate,Never,6.9,Good,Moderate,No,No,No,Yes,No,No,No,none,101,79,83,33.5,80.4,0.78,Normal
+31,Female,South Asian,24.6,Middle,Moderate,none,Never,7.5,Average,Low,Yes,No,No,No,Yes,No,No,none,137,85,54,33.2,149.5,1.53,Normal
+36,Other,Other,20.2,Middle,Moderate,none,Never,4.0,Good,Moderate,Yes,No,No,No,No,No,No,none,90,72,79,32.7,85.4,0.89,Normal
+18,Female,Caucasian,18.1,Middle,Sedentary,none,Never,5.5,Good,Moderate,No,Yes,No,No,No,No,Yes,Steroids,134,91,70,31.6,120.0,1.19,Underweight
+61,Female,South Asian,26.8,Low,Moderate,none,Former,5.8,Average,Moderate,No,No,No,No,No,No,No,none,129,71,87,32.5,125.9,1.19,Overweight
+18,Male,South Asian,33.5,Middle,Sedentary,none,Former,4.7,Average,Moderate,No,Yes,No,No,No,No,No,Metformin,126,78,68,32.8,157.3,1.62,Obese
+51,Female,South Asian,23.0,Middle,Sedentary,Heavy,Never,7.5,Good,Low,No,No,No,No,No,No,No,Steroids,127,84,75,32.8,79.7,0.81,Normal
+52,Male,South Asian,24.7,Middle,Sedentary,Moderate,Former,6.9,Good,High,Yes,No,No,Yes,No,No,No,none,116,80,59,31.8,72.6,0.71,Normal
+39,Female,Hispanic,29.0,Middle,Moderate,Heavy,Former,7.3,Poor,Moderate,No,No,No,No,No,No,Yes,Metformin,135,92,73,33.5,95.7,1.04,Overweight
+39,Male,African,26.0,Low,Sedentary,Heavy,Never,5.1,Poor,Moderate,Yes,No,No,No,No,No,No,Metformin,123,70,66,32.2,119.6,1.22,Overweight
+57,Male,South Asian,23.4,Middle,Sedentary,Moderate,Never,5.2,Average,Low,No,No,No,No,No,No,No,none,119,86,80,32.5,69.5,0.78,Normal
+32,Male,African,36.9,Middle,Moderate,none,Never,8.9,Good,Moderate,Yes,No,No,No,No,No,Yes,Metformin,124,79,68,32.2,114.2,1.17,Obese
+53,Male,South Asian,22.1,Middle,Sedentary,none,Never,8.1,Average,Moderate,No,Yes,No,Yes,No,No,No,none,146,81,69,32.0,106.7,1.04,Normal
+69,Male,African,33.0,Low,Sedentary,Moderate,Never,6.5,Average,Low,No,No,No,Yes,No,No,No,none,104,93,70,32.3,69.7,0.64,Obese
+42,Male,Other,26.8,Low,Sedentary,Moderate,Current,6.3,Poor,Low,No,No,No,No,No,No,Yes,none,126,71,76,31.3,131.1,1.32,Overweight
+65,Female,Hispanic,18.0,Middle,Active,Moderate,Current,7.0,Good,Moderate,No,Yes,No,Yes,No,Yes,No,Insulin,107,62,91,32.2,78.7,0.76,Underweight
+18,Female,African,28.4,Middle,Active,none,Current,6.8,Poor,Low,Yes,No,No,No,Yes,No,No,Insulin,126,79,88,31.0,105.6,0.94,Overweight
+19,Female,Other,18.0,Low,Moderate,none,Never,7.3,Average,Moderate,No,Yes,No,No,No,No,No,none,128,82,72,33.2,104.9,1.07,Underweight
+46,Male,South Asian,30.0,Middle,Active,none,Never,6.3,Good,Low,No,No,No,No,No,Yes,No,Steroids,112,78,75,32.7,111.2,1.12,Overweight
+37,Female,African,20.7,Middle,Moderate,none,Never,7.5,Average,Low,No,No,No,No,No,Yes,Yes,Insulin,140,65,72,32.4,71.7,0.74,Normal
+51,Female,African,21.6,High,Sedentary,none,Former,4.0,Average,Moderate,No,No,No,Yes,No,No,No,none,104,100,74,33.2,100.6,0.98,Normal
+55,Female,Hispanic,27.8,High,Sedentary,Moderate,Never,9.4,Poor,High,Yes,Yes,No,No,No,No,Yes,none,118,89,82,33.3,109.5,1.07,Overweight
+18,Male,Caucasian,22.6,Low,Sedentary,none,Former,5.7,Average,Moderate,Yes,No,No,No,No,No,No,none,90,91,74,31.5,100.4,1.05,Normal
+30,Female,African,29.1,Low,Sedentary,none,Former,7.9,Good,High,No,No,No,No,No,No,No,none,117,79,62,32.6,89.9,0.86,Overweight
+35,Male,South Asian,28.5,Low,Sedentary,none,Never,9.0,Good,Moderate,Yes,No,No,Yes,No,No,No,Insulin,109,74,71,30.8,94.9,0.9,Overweight
+24,Male,South Asian,28.8,Middle,Moderate,none,Former,7.4,Poor,High,No,No,No,No,No,Yes,No,Insulin,123,91,73,31.2,99.0,0.93,Overweight
+35,Male,South Asian,28.0,High,Sedentary,none,Former,6.2,Poor,Moderate,No,No,No,No,No,No,No,none,120,76,89,32.8,116.2,1.15,Overweight
+23,Female,Caucasian,24.6,Middle,Moderate,none,Never,6.0,Good,Low,Yes,Yes,No,No,No,No,No,Insulin,114,79,76,32.9,113.8,1.22,Normal
+21,Female,South Asian,23.7,Middle,Sedentary,Heavy,Never,8.7,Good,Moderate,No,No,No,No,No,No,No,Insulin,90,76,86,32.7,80.9,0.89,Normal
+55,Female,Hispanic,21.4,Middle,Sedentary,none,Current,7.5,Average,Moderate,No,No,No,No,No,No,No,Insulin,149,71,64,32.9,115.3,1.05,Normal
+62,Female,South Asian,32.9,Middle,Moderate,Moderate,Never,7.4,Average,Low,No,No,No,No,No,No,No,Steroids,141,90,73,33.8,110.0,1.24,Obese
+42,Male,Caucasian,32.5,Middle,Moderate,none,Never,4.0,Average,Moderate,No,Yes,No,No,No,No,Yes,none,113,84,73,33.4,125.0,1.27,Obese
+52,Female,South Asian,20.3,Middle,Active,Heavy,Never,8.4,Average,High,Yes,No,No,No,No,No,No,none,136,73,56,30.4,111.7,1.06,Normal
+37,Male,Other,30.1,Low,Moderate,Moderate,Never,7.1,Good,Moderate,Yes,No,No,No,No,Yes,No,none,107,80,79,31.9,124.4,1.21,Obese
+41,Female,South Asian,21.7,Low,Sedentary,Moderate,Current,6.0,Average,Moderate,Yes,Yes,No,Yes,No,No,No,none,140,86,76,31.6,228.1,2.0,Normal
+49,Female,South Asian,29.3,Low,Moderate,Moderate,Current,6.6,Average,Low,Yes,No,No,No,No,No,No,none,117,98,67,32.4,70.2,0.73,Overweight
+29,Male,South Asian,24.4,Middle,Moderate,none,Current,5.9,Average,Moderate,No,No,No,No,No,No,No,none,113,76,81,31.8,104.3,1.01,Normal
+45,Female,Other,31.7,Low,Sedentary,none,Former,5.6,Average,Moderate,No,No,Yes,Yes,No,No,No,none,127,60,75,31.1,161.4,1.57,Obese
+50,Female,Caucasian,18.5,High,Sedentary,none,Current,5.3,Poor,Low,No,No,No,No,No,No,No,Metformin,120,78,77,32.4,75.0,0.77,Underweight
+32,Other,Hispanic,29.7,Low,Sedentary,none,Current,7.6,Poor,Moderate,No,No,No,No,No,No,No,none,125,81,66,32.3,167.9,1.75,Overweight
+18,Male,Hispanic,28.2,Low,Sedentary,Moderate,Former,7.9,Average,Moderate,Yes,No,No,No,No,No,No,Steroids,114,85,94,32.3,97.4,1.03,Overweight
+35,Female,Caucasian,20.7,Low,Sedentary,Moderate,Current,5.7,Poor,Low,No,No,No,No,Yes,No,No,none,133,79,53,32.4,129.8,1.36,Normal
+59,Female,Other,22.6,Middle,Moderate,Moderate,Former,4.5,Poor,Moderate,No,No,No,Yes,No,No,No,none,90,60,76,32.1,84.9,0.92,Normal
+43,Male,South Asian,19.2,Low,Moderate,none,Never,7.6,Average,High,No,No,No,No,No,No,No,Metformin,135,69,79,32.3,99.4,0.97,Normal
+49,Female,Hispanic,18.5,Low,Moderate,none,Former,5.8,Average,Moderate,Yes,Yes,No,Yes,No,No,No,none,126,87,84,32.0,172.2,1.74,Underweight
+25,Female,South Asian,29.7,High,Moderate,none,Former,8.7,Average,High,No,No,No,Yes,No,No,No,none,117,90,80,33.6,146.3,1.43,Overweight
+28,Female,South Asian,33.3,Low,Moderate,none,Current,5.7,Average,High,No,No,No,No,No,Yes,No,none,119,83,81,30.3,115.2,1.12,Obese
+40,Female,Caucasian,27.2,Low,Moderate,none,Former,7.6,Poor,Low,Yes,No,No,Yes,No,No,No,Steroids,101,89,59,30.9,145.4,1.45,Overweight
+64,Male,South Asian,19.3,Middle,Sedentary,none,Former,7.8,Good,Low,No,No,No,No,No,No,No,none,131,90,86,30.5,100.0,0.92,Normal
+34,Male,South Asian,23.0,Low,Sedentary,Moderate,Never,6.9,Good,Moderate,No,Yes,No,No,No,No,No,none,135,83,72,32.9,155.6,1.52,Normal
+38,Male,South Asian,26.1,High,Sedentary,none,Current,8.6,Poor,Moderate,No,No,No,No,No,No,No,none,93,84,85,33.0,125.3,1.34,Overweight
+62,Male,South Asian,29.5,Middle,Moderate,none,Never,5.9,Good,Low,No,No,No,No,No,Yes,No,none,109,77,66,30.4,211.8,2.0,Overweight
+29,Male,South Asian,31.8,Low,Sedentary,Moderate,Current,8.8,Average,Moderate,No,No,No,No,No,No,No,Other,120,91,71,32.2,126.2,1.2,Obese
+57,Female,Caucasian,23.8,Middle,Sedentary,Moderate,Current,10.0,Poor,High,Yes,No,No,Yes,Yes,No,No,Steroids,117,81,72,32.8,82.6,0.81,Normal
+66,Female,Other,24.0,Middle,Sedentary,Heavy,Never,6.0,Average,Moderate,No,No,No,No,No,No,No,Metformin,120,87,51,31.0,95.5,0.87,Normal
+39,Male,South Asian,27.4,Middle,Sedentary,Moderate,Never,4.0,Average,Moderate,No,Yes,No,No,No,No,No,none,108,71,63,31.8,99.3,1.01,Overweight
+54,Male,African,25.6,Low,Sedentary,Heavy,Former,7.0,Average,Moderate,No,No,No,Yes,No,No,No,none,104,82,82,31.9,100.3,1.04,Overweight
+21,Male,South Asian,25.2,Middle,Sedentary,none,Never,4.5,Average,Low,No,No,No,No,No,No,No,none,123,78,58,31.8,97.6,1.0,Overweight
+50,Male,Other,29.6,High,Active,Heavy,Never,5.0,Average,Low,Yes,No,No,Yes,No,No,No,none,127,69,68,30.4,109.9,1.11,Overweight
+49,Male,South Asian,32.3,Low,Sedentary,none,Current,5.0,Average,Moderate,Yes,No,No,Yes,No,No,No,none,135,74,67,31.7,118.2,1.11,Obese
+18,Male,African,28.3,Low,Active,none,Former,5.1,Average,Low,No,No,No,No,No,No,No,Metformin,117,70,77,31.8,100.0,0.97,Overweight
+44,Female,Caucasian,33.4,Middle,Active,Moderate,Never,8.4,Good,Moderate,Yes,No,No,No,No,No,No,Metformin,117,93,75,32.5,111.1,1.04,Obese
+58,Male,South Asian,28.7,Middle,Moderate,Heavy,Never,5.0,Average,Low,No,No,No,No,No,Yes,No,none,132,70,50,33.0,95.1,1.1,Overweight
+44,Female,Caucasian,24.3,Middle,Moderate,none,Current,4.8,Average,Moderate,No,No,No,Yes,No,No,Yes,Metformin,117,75,85,31.5,93.0,0.9,Normal
+71,Male,Hispanic,30.8,Middle,Active,Moderate,Never,9.0,Average,High,Yes,No,No,No,No,No,No,none,120,76,72,31.7,86.8,0.91,Obese
+39,Male,South Asian,27.5,Low,Moderate,Moderate,Former,8.0,Average,Moderate,Yes,No,No,No,No,Yes,No,Steroids,143,89,82,32.0,83.2,0.81,Overweight
+37,Female,Caucasian,29.7,High,Sedentary,Moderate,Former,6.2,Good,Moderate,No,No,No,No,Yes,No,No,Other,125,77,79,32.5,115.9,1.14,Overweight
+46,Female,South Asian,18.0,Low,Sedentary,none,Never,7.3,Average,Low,No,No,No,No,No,No,No,none,122,70,93,32.5,87.2,0.84,Underweight
+23,Female,African,18.0,High,Sedentary,Heavy,Never,6.5,Average,Moderate,No,Yes,No,No,No,No,No,none,160,91,57,32.2,137.1,1.42,Underweight
+38,Female,South Asian,21.5,Low,Active,none,Never,7.7,Average,Moderate,No,No,No,No,No,No,No,none,117,70,65,30.8,120.4,1.11,Normal
+43,Female,Other,31.8,Middle,Active,none,Current,8.1,Average,High,No,No,No,No,Yes,No,No,none,124,77,77,31.9,79.1,0.71,Obese
+41,Female,Caucasian,19.3,Middle,Sedentary,none,Current,7.2,Poor,High,Yes,No,No,No,No,No,Yes,none,117,78,80,32.7,90.3,0.93,Normal
+40,Male,South Asian,23.2,Low,Active,none,Current,6.6,Poor,High,No,No,No,Yes,No,No,No,Steroids,99,70,70,32.4,170.4,1.67,Normal
+36,Female,African,29.1,Low,Sedentary,none,Current,7.1,Good,Moderate,No,No,No,No,No,No,No,none,135,66,80,33.2,109.4,1.07,Overweight
+28,Female,Caucasian,25.7,Middle,Sedentary,none,Never,4.9,Average,Moderate,No,No,Yes,Yes,No,No,No,none,119,72,68,31.7,96.5,0.92,Overweight
+64,Female,South Asian,24.2,Middle,Moderate,Moderate,Former,10.0,Average,Low,Yes,No,No,Yes,No,No,No,none,112,68,82,32.9,120.4,1.18,Normal
+34,Female,African,26.7,Low,Sedentary,none,Never,4.0,Poor,Moderate,No,No,No,Yes,No,No,No,none,90,82,69,33.6,81.0,0.94,Overweight
+33,Female,Hispanic,27.1,Low,Moderate,Moderate,Current,5.3,Average,Moderate,No,No,No,No,No,No,No,none,112,72,73,30.8,81.4,0.78,Overweight
+35,Female,South Asian,23.7,High,Moderate,none,Never,4.0,Average,Low,Yes,No,No,No,No,Yes,No,Metformin,103,77,60,32.7,74.2,0.7,Normal
+27,Female,Other,18.9,Middle,Active,Moderate,Current,7.0,Average,Moderate,No,Yes,No,Yes,No,No,No,none,109,80,63,30.2,121.5,1.2,Normal
+49,Female,Caucasian,24.4,Low,Moderate,none,Never,5.5,Poor,High,No,No,No,No,No,No,No,none,126,80,79,31.6,72.6,0.76,Normal
+66,Male,Hispanic,25.8,Low,Sedentary,none,Never,7.6,Average,High,No,No,No,Yes,No,No,No,Other,99,95,71,32.5,89.8,0.87,Overweight
+40,Female,South Asian,22.1,Middle,Moderate,none,Former,7.1,Average,High,Yes,No,No,No,No,No,No,none,113,71,78,33.1,83.7,0.75,Normal
+31,Female,South Asian,23.6,Middle,Sedentary,none,Never,7.4,Average,High,No,No,No,No,No,No,No,none,144,90,69,30.9,110.5,1.07,Normal
+44,Female,Hispanic,28.8,High,Sedentary,none,Never,7.3,Poor,Moderate,No,No,Yes,Yes,No,No,No,none,100,85,65,31.6,86.7,0.77,Overweight
+22,Male,South Asian,20.6,Low,Moderate,none,Never,5.7,Average,Low,No,No,No,No,No,No,No,none,101,89,78,30.4,104.9,1.04,Normal
+52,Male,Other,25.7,Middle,Active,none,Former,7.5,Average,Moderate,Yes,No,No,Yes,No,No,Yes,Insulin,126,87,71,32.5,99.1,1.0,Overweight
+22,Female,African,25.2,High,Sedentary,none,Former,6.4,Average,Low,No,No,No,No,Yes,No,No,none,141,73,84,32.9,98.7,1.04,Overweight
+18,Female,Caucasian,25.8,High,Active,none,Current,6.9,Good,Moderate,No,Yes,No,No,No,No,Yes,none,122,79,77,31.9,107.4,1.21,Overweight
+40,Male,South Asian,21.1,Low,Sedentary,none,Never,6.7,Poor,High,Yes,Yes,No,Yes,No,No,No,none,103,94,80,31.4,100.8,0.96,Normal
+53,Female,Hispanic,25.0,Middle,Sedentary,Moderate,Never,6.1,Average,Low,Yes,No,Yes,Yes,No,No,No,Insulin,120,74,68,31.7,101.6,1.08,Normal
+32,Female,Caucasian,25.5,Middle,Sedentary,none,Current,6.4,Poor,Moderate,No,No,No,No,No,Yes,No,none,112,72,72,32.5,118.0,1.17,Overweight
+80,Female,South Asian,18.0,Middle,Sedentary,none,Former,7.9,Poor,Low,No,No,No,Yes,No,No,No,Metformin,129,91,80,32.8,89.1,0.89,Underweight
+39,Male,Hispanic,18.0,Low,Sedentary,none,Never,5.8,Average,Moderate,No,No,No,No,No,No,No,none,125,81,78,32.5,90.9,0.76,Underweight
+63,Female,South Asian,23.3,High,Moderate,none,Current,6.3,Good,Moderate,No,No,Yes,No,No,No,No,Metformin,119,74,73,32.9,81.2,0.77,Normal
+22,Female,African,34.3,Low,Moderate,none,Never,7.1,Average,Moderate,No,No,No,Yes,No,No,No,Other,124,76,74,31.6,92.6,1.01,Obese
+64,Male,South Asian,21.9,Middle,Active,none,Never,8.0,Poor,Moderate,No,No,No,No,No,No,No,none,141,76,88,33.4,93.5,0.95,Normal
+56,Male,African,27.0,Middle,Active,none,Former,6.9,Poor,High,No,Yes,No,No,No,No,No,Insulin,140,83,82,33.1,93.3,0.88,Overweight
+40,Male,South Asian,27.8,Low,Active,none,Never,6.7,Average,Moderate,Yes,No,No,No,No,No,No,Metformin,112,82,72,33.0,114.4,1.18,Overweight
+55,Male,Caucasian,22.7,Middle,Moderate,none,Never,6.7,Poor,Low,Yes,No,No,Yes,No,No,No,none,121,71,83,32.4,162.5,1.55,Normal
+33,Female,African,20.7,Low,Moderate,Moderate,Current,8.0,Good,Moderate,Yes,No,No,No,No,No,No,none,90,94,73,31.1,81.2,0.76,Normal
+18,Female,Hispanic,24.5,Middle,Active,Heavy,Never,8.8,Good,Moderate,No,No,No,No,No,No,No,Insulin,95,78,85,32.4,82.4,0.9,Normal
+35,Male,Other,24.1,Low,Moderate,none,Current,8.5,Average,Low,No,No,No,Yes,No,No,No,Steroids,139,77,74,31.9,165.4,1.66,Normal
+27,Male,Hispanic,23.2,Middle,Sedentary,none,Never,7.0,Average,Moderate,No,No,No,No,No,No,No,Steroids,96,62,77,31.1,87.5,0.79,Normal
+50,Male,Other,28.4,Low,Sedentary,none,Current,7.2,Average,Low,No,No,No,No,No,No,No,none,121,79,67,33.0,90.0,0.87,Overweight
+67,Female,Hispanic,20.4,Middle,Sedentary,none,Current,6.3,Poor,High,No,Yes,No,No,No,No,Yes,Other,92,90,86,32.4,99.8,1.02,Normal
+37,Male,African,18.4,Middle,Sedentary,none,Never,8.2,Good,Moderate,No,Yes,No,No,No,Yes,No,none,127,95,55,33.8,100.7,1.07,Underweight
+31,Male,South Asian,27.0,Middle,Sedentary,none,Former,9.4,Average,Low,No,No,No,No,No,No,No,Insulin,124,68,71,32.5,82.2,0.77,Overweight
+60,Male,South Asian,26.2,Low,Sedentary,none,Former,4.9,Poor,Moderate,No,No,No,No,No,No,No,Metformin,128,60,81,31.4,88.5,0.87,Overweight
+18,Female,African,26.2,Low,Sedentary,Moderate,Never,6.3,Average,Low,Yes,No,No,No,No,Yes,No,Steroids,123,76,68,32.6,115.0,1.21,Overweight
+80,Male,South Asian,29.5,Low,Sedentary,none,Former,7.2,Poor,High,Yes,Yes,No,Yes,No,Yes,Yes,Metformin,128,73,87,34.0,123.8,1.26,Overweight
+50,Female,Caucasian,21.1,Middle,Sedentary,Heavy,Never,4.3,Average,Moderate,No,Yes,No,No,No,No,No,Other,135,82,74,32.7,107.2,1.08,Normal
+63,Male,Caucasian,25.9,Middle,Sedentary,Moderate,Never,5.0,Average,High,No,No,No,No,No,No,No,none,129,78,59,30.4,92.5,0.79,Overweight
+60,Female,African,27.8,Low,Active,Moderate,Former,6.8,Average,High,No,No,No,No,No,No,No,none,120,70,50,32.1,81.2,0.76,Overweight
+18,Male,South Asian,23.3,Low,Sedentary,none,Never,6.1,Poor,Low,No,No,No,No,No,No,No,none,133,83,76,32.1,86.5,0.94,Normal
+44,Male,Other,29.0,Middle,Sedentary,Moderate,Never,9.1,Good,Moderate,No,No,No,Yes,No,No,No,Steroids,131,80,71,32.1,138.8,1.33,Overweight
+55,Male,Caucasian,26.0,Middle,Moderate,Moderate,Never,6.0,Average,High,No,No,No,Yes,No,No,No,none,117,90,79,32.1,90.4,0.91,Overweight
+28,Male,South Asian,31.7,Middle,Sedentary,Moderate,Never,8.5,Average,Low,Yes,No,No,No,No,No,No,none,110,74,87,31.7,126.6,1.29,Obese
+44,Female,African,24.3,Low,Sedentary,Heavy,Former,6.4,Good,Low,Yes,Yes,No,No,No,No,No,Insulin,119,81,77,32.4,125.8,1.33,Normal
+39,Male,South Asian,19.3,Low,Active,none,Never,4.4,Good,Moderate,No,No,No,No,No,No,No,none,117,78,57,31.1,81.4,0.79,Normal
+28,Male,African,24.5,Low,Moderate,none,Never,8.4,Good,Moderate,Yes,No,No,No,No,No,No,Metformin,111,83,84,32.6,152.5,1.57,Normal
+32,Male,Hispanic,21.5,Low,Moderate,Moderate,Former,9.7,Good,Low,Yes,No,No,No,No,No,No,Metformin,124,67,57,31.5,117.8,1.19,Normal
+41,Male,Caucasian,21.2,Middle,Sedentary,Moderate,Never,8.1,Good,Moderate,No,No,No,No,No,No,No,Metformin,129,84,69,33.2,88.7,0.89,Normal
+27,Female,South Asian,30.1,Low,Sedentary,Moderate,Never,5.3,Average,Low,No,Yes,No,No,No,No,No,Steroids,104,99,82,32.5,125.9,1.32,Obese
+36,Male,South Asian,29.3,Middle,Moderate,none,Current,6.5,Average,Moderate,No,No,No,No,No,No,No,none,119,78,72,30.1,80.5,0.75,Overweight
+33,Female,Caucasian,20.9,Middle,Sedentary,Moderate,Current,7.4,Average,Moderate,No,No,No,Yes,No,No,No,Other,132,92,73,31.6,114.9,1.03,Normal
+18,Female,South Asian,23.3,Middle,Sedentary,none,Former,6.8,Average,Moderate,Yes,No,No,Yes,Yes,No,Yes,none,130,73,64,34.0,106.3,1.07,Normal
+30,Female,Other,23.8,Middle,Moderate,none,Former,8.2,Average,Moderate,No,No,No,No,No,No,No,none,107,85,72,32.0,104.4,1.1,Normal
+22,Female,African,20.0,Middle,Moderate,Moderate,Former,7.1,Poor,Moderate,Yes,No,Yes,No,No,No,No,none,116,83,79,31.2,82.8,0.85,Normal
+56,Female,South Asian,26.6,Middle,Active,none,Former,5.4,Good,Low,No,No,No,No,No,Yes,No,none,122,70,64,31.0,89.8,0.87,Overweight
+40,Male,Other,18.0,Middle,Moderate,Heavy,Never,7.0,Average,Low,Yes,No,No,No,No,No,No,none,113,78,73,33.0,86.8,0.99,Underweight
+51,Male,Hispanic,30.6,Middle,Sedentary,none,Current,6.2,Average,Low,No,No,No,Yes,No,No,Yes,none,135,80,85,32.3,85.2,0.85,Obese
+53,Male,Caucasian,24.5,Middle,Sedentary,none,Never,6.8,Poor,Moderate,No,No,No,Yes,No,No,No,none,108,91,63,31.8,112.0,1.12,Normal
+27,Male,Hispanic,20.0,Low,Active,none,Never,7.2,Good,Moderate,No,No,No,No,No,No,No,none,146,77,71,30.9,92.7,0.85,Normal
+48,Female,South Asian,26.5,Low,Sedentary,none,Never,5.8,Average,High,No,No,No,No,No,Yes,No,none,104,85,82,31.3,125.9,1.28,Overweight
+51,Male,South Asian,18.0,High,Sedentary,none,Current,6.3,Average,Moderate,No,No,No,Yes,No,No,No,none,130,96,83,32.7,100.1,1.04,Underweight
+33,Female,Caucasian,27.4,Middle,Sedentary,none,Current,4.0,Good,Low,No,Yes,No,No,No,No,No,Other,121,85,91,32.1,126.9,1.33,Overweight
+23,Male,South Asian,19.0,Middle,Moderate,none,Never,7.7,Good,Low,Yes,Yes,No,Yes,No,No,No,none,116,83,73,32.7,120.5,1.2,Normal
+21,Male,African,18.0,Middle,Sedentary,Moderate,Current,7.4,Poor,Moderate,No,No,No,Yes,No,No,No,Metformin,119,69,54,31.7,81.5,0.82,Underweight
+49,Female,South Asian,26.0,Low,Active,Heavy,Never,7.0,Poor,Moderate,Yes,No,No,No,No,No,No,Steroids,124,83,78,30.8,76.0,0.75,Overweight
+27,Male,Hispanic,20.5,Low,Moderate,none,Never,9.4,Good,Low,No,No,No,Yes,No,No,No,none,146,84,69,31.3,106.3,1.13,Normal
+33,Male,South Asian,23.0,Low,Active,Moderate,Current,4.0,Average,Moderate,No,No,No,No,No,Yes,No,Metformin,120,71,70,32.0,89.8,0.9,Normal
+27,Female,Hispanic,25.7,Low,Sedentary,Heavy,Current,5.8,Average,Moderate,Yes,No,No,No,No,No,No,Insulin,94,89,81,30.3,95.9,0.92,Overweight
+50,Male,African,19.3,Middle,Moderate,none,Former,5.5,Poor,Moderate,No,No,No,No,No,No,Yes,Metformin,139,101,73,32.4,79.8,0.79,Normal
+69,Male,South Asian,25.6,Middle,Sedentary,none,Never,7.1,Average,Moderate,Yes,No,No,Yes,No,No,No,none,149,70,82,30.9,99.7,0.91,Overweight
+43,Female,Hispanic,28.8,Middle,Sedentary,none,Never,6.7,Good,High,No,Yes,No,No,No,No,No,none,122,70,82,32.1,112.9,1.15,Overweight
+39,Male,Caucasian,25.5,Low,Active,none,Never,6.6,Average,Low,No,No,No,Yes,No,No,No,none,99,67,63,33.6,84.9,0.95,Overweight
+30,Male,Hispanic,23.1,Low,Moderate,none,Never,8.0,Poor,High,No,Yes,No,Yes,No,Yes,No,none,144,78,100,32.7,124.7,1.35,Normal
+57,Male,Other,27.4,Low,Sedentary,none,Never,6.9,Good,Moderate,No,No,No,Yes,No,No,No,none,128,66,86,32.1,81.8,0.74,Overweight
+65,Male,African,35.6,Low,Moderate,Heavy,Never,7.4,Average,Low,No,No,No,No,No,No,No,none,110,79,67,31.4,89.5,0.88,Obese
+48,Male,Caucasian,33.4,Low,Moderate,none,Current,7.1,Good,Moderate,No,No,No,No,No,No,No,none,116,79,81,32.4,97.9,0.94,Obese
+40,Female,Other,32.7,High,Sedentary,Moderate,Never,4.0,Good,Moderate,No,No,Yes,Yes,No,Yes,No,Insulin,110,79,66,30.7,103.4,0.99,Obese
+18,Female,African,24.6,High,Moderate,none,Never,5.0,Poor,Moderate,No,Yes,No,No,No,No,No,Insulin,124,81,78,32.9,82.0,0.89,Normal
+48,Male,South Asian,31.5,Low,Sedentary,none,Former,4.0,Poor,Low,Yes,No,No,No,No,No,No,none,132,78,76,30.7,220.6,2.0,Obese
+24,Male,Caucasian,28.7,Low,Sedentary,Moderate,Never,5.7,Average,Moderate,No,No,No,No,No,No,No,Metformin,117,68,90,32.8,96.7,1.0,Overweight
+38,Female,Caucasian,25.0,Low,Sedentary,none,Current,7.7,Good,High,No,No,No,No,Yes,No,No,Metformin,94,86,84,32.8,160.3,1.61,Normal
+29,Female,South Asian,21.1,Low,Sedentary,Moderate,Never,8.3,Average,Moderate,No,No,No,Yes,No,No,No,none,109,63,76,30.5,107.9,1.02,Normal
+30,Male,African,32.9,Middle,Moderate,Moderate,Never,7.5,Average,Low,No,No,No,No,No,No,No,none,102,84,65,34.1,128.4,1.26,Obese
+46,Female,Hispanic,19.4,Low,Moderate,Heavy,Never,10.0,Average,High,Yes,No,No,No,No,Yes,No,Metformin,135,86,70,32.4,114.1,1.11,Normal
+57,Male,Hispanic,31.3,Low,Moderate,none,Former,8.3,Good,Moderate,Yes,No,No,No,No,No,Yes,none,106,67,69,31.7,100.8,1.03,Obese
+49,Male,Other,26.3,Low,Active,Moderate,Current,7.7,Average,Low,No,No,No,No,No,No,No,none,122,87,65,32.5,70.6,0.68,Overweight
+45,Male,Caucasian,26.3,Middle,Moderate,none,Never,6.2,Poor,High,No,No,No,No,No,No,No,none,129,83,81,31.3,76.7,0.71,Overweight
+33,Male,South Asian,24.7,Low,Sedentary,none,Current,6.5,Good,Moderate,No,No,No,No,No,No,No,none,99,86,100,32.0,78.7,0.7,Normal
+18,Male,South Asian,26.0,Middle,Moderate,Heavy,Never,8.2,Average,Moderate,No,No,No,No,No,No,No,none,124,66,70,32.3,92.3,0.91,Overweight
+56,Male,Hispanic,20.8,Middle,Active,none,Never,7.3,Average,High,Yes,Yes,No,No,No,No,No,none,108,73,88,31.0,100.4,1.01,Normal
+48,Male,South Asian,21.4,Middle,Sedentary,Moderate,Never,7.7,Good,Moderate,Yes,No,No,No,No,Yes,No,none,161,91,65,31.2,111.3,1.13,Normal
+45,Male,South Asian,19.1,Middle,Sedentary,Moderate,Former,9.0,Average,High,No,No,No,No,No,No,No,Other,107,77,70,31.4,96.7,0.9,Normal
+55,Male,South Asian,20.5,Middle,Active,none,Former,6.0,Average,Moderate,No,No,No,Yes,No,No,No,Other,111,75,77,34.1,98.7,1.07,Normal
+45,Female,Other,23.9,Low,Active,none,Current,7.3,Poor,Low,No,No,No,No,No,No,Yes,none,118,76,91,33.0,97.3,1.05,Normal
+30,Female,Hispanic,27.1,Middle,Moderate,Heavy,Current,7.4,Good,Moderate,Yes,No,No,No,No,No,No,none,100,78,71,32.5,100.1,1.05,Overweight
+49,Male,Other,29.1,Low,Active,none,Current,5.8,Good,High,Yes,No,No,No,No,No,No,Metformin,104,77,76,32.6,114.3,1.15,Overweight
+38,Male,Caucasian,25.1,Low,Sedentary,none,Never,7.6,Average,High,No,No,No,Yes,No,No,No,none,116,83,83,31.7,114.8,1.1,Overweight
+39,Male,South Asian,19.9,Middle,Sedentary,Moderate,Former,9.9,Good,Moderate,No,Yes,No,No,No,No,No,Insulin,140,72,77,31.6,112.8,1.19,Normal
+49,Male,Caucasian,25.4,Low,Active,none,Former,5.2,Average,Moderate,Yes,No,No,No,No,No,No,none,143,78,88,32.9,85.5,0.88,Overweight
+29,Female,African,31.9,Middle,Active,none,Never,5.8,Good,Low,No,No,No,Yes,No,No,No,none,129,88,92,31.9,109.2,1.02,Obese
+43,Female,South Asian,25.1,Middle,Sedentary,none,Former,7.6,Average,Moderate,No,No,No,No,No,No,Yes,none,117,69,76,34.1,80.3,0.85,Overweight
+18,Male,African,37.1,Middle,Moderate,none,Never,7.9,Good,Low,No,No,No,No,No,No,No,none,116,86,60,32.8,70.1,0.72,Obese
+66,Female,South Asian,22.9,Middle,Moderate,none,Never,7.4,Good,High,No,No,Yes,Yes,Yes,No,Yes,none,93,76,98,30.6,146.3,1.35,Normal
+27,Female,South Asian,21.7,Middle,Moderate,none,Current,5.8,Poor,Moderate,No,No,No,No,No,No,No,Metformin,119,82,70,30.2,100.7,0.9,Normal
+46,Male,South Asian,30.3,Low,Sedentary,none,Never,4.0,Average,Moderate,Yes,No,No,Yes,No,No,No,none,113,80,70,33.1,98.1,1.0,Obese
+33,Male,South Asian,26.8,Low,Moderate,none,Never,7.9,Average,Moderate,No,No,No,No,No,No,No,none,113,79,87,32.1,164.1,1.66,Overweight
+46,Female,South Asian,29.7,Middle,Moderate,Moderate,Never,6.2,Good,Moderate,Yes,No,No,No,No,No,No,none,122,78,79,30.7,157.8,1.53,Overweight
+31,Female,Hispanic,29.1,Middle,Sedentary,none,Current,8.9,Average,Moderate,No,No,No,No,No,No,No,none,120,66,79,32.3,107.0,1.08,Overweight
+42,Male,Other,26.7,Middle,Moderate,Heavy,Never,6.6,Poor,Moderate,No,No,No,No,No,No,Yes,none,101,87,85,31.2,81.6,0.74,Overweight
+31,Female,Caucasian,18.0,Middle,Sedentary,Moderate,Former,8.8,Poor,Moderate,Yes,Yes,No,No,No,No,No,none,127,79,77,31.2,100.3,0.98,Underweight
+25,Female,Caucasian,29.5,Low,Moderate,Moderate,Never,6.3,Good,Moderate,No,No,No,No,No,No,No,Insulin,127,61,84,30.7,83.1,0.87,Overweight
+47,Male,South Asian,20.9,Middle,Moderate,none,Current,6.0,Average,High,No,No,No,No,No,No,No,none,110,85,71,32.8,98.5,1.0,Normal
+47,Male,South Asian,19.7,Low,Sedentary,none,Current,5.8,Good,High,Yes,Yes,No,No,No,Yes,No,none,144,60,73,30.5,117.4,1.14,Normal
+18,Male,Caucasian,23.2,Middle,Sedentary,Heavy,Never,8.2,Average,High,No,No,No,No,No,No,No,none,126,88,86,32.4,85.4,0.88,Normal
+32,Female,South Asian,18.0,Low,Sedentary,none,Never,9.3,Good,Moderate,Yes,No,No,No,No,No,No,Other,127,82,77,32.6,96.6,0.96,Underweight
+33,Male,African,23.0,High,Sedentary,Moderate,Never,8.9,Good,Low,Yes,No,No,No,No,No,No,none,114,84,81,31.3,108.0,1.13,Normal
+32,Male,South Asian,30.8,Low,Sedentary,none,Former,8.4,Average,Moderate,Yes,No,No,No,No,No,Yes,none,141,71,79,32.0,167.0,1.64,Obese
+32,Female,African,20.8,Middle,Sedentary,Moderate,Former,9.1,Good,Moderate,Yes,No,No,No,No,No,Yes,none,101,99,86,31.6,96.6,0.81,Normal
+28,Female,South Asian,19.5,Middle,Sedentary,Moderate,Never,6.6,Good,Low,No,No,No,No,Yes,No,No,none,110,83,75,32.1,113.2,1.14,Normal
+31,Female,African,28.3,Middle,Sedentary,none,Never,6.9,Average,High,Yes,No,No,No,No,No,No,none,134,73,67,31.8,95.2,0.89,Overweight
+54,Male,Caucasian,22.1,Middle,Active,none,Former,7.7,Average,High,Yes,No,No,Yes,No,No,No,Insulin,139,80,75,32.0,125.4,1.31,Normal
+22,Female,African,18.0,Low,Sedentary,Moderate,Never,8.5,Average,High,Yes,No,Yes,No,No,No,No,none,126,77,98,31.8,81.4,0.82,Underweight
+55,Male,South Asian,19.0,Low,Active,none,Never,5.1,Average,Moderate,Yes,No,No,No,No,Yes,No,none,112,78,55,34.0,166.2,1.67,Normal
+64,Female,Other,25.6,Low,Sedentary,none,Former,7.0,Poor,Low,Yes,No,Yes,Yes,No,No,No,none,129,76,88,31.0,126.2,1.22,Overweight
+49,Female,Caucasian,22.6,Middle,Active,none,Never,7.7,Good,Low,No,No,No,No,No,No,No,none,126,83,90,33.3,81.7,0.83,Normal
+34,Female,Hispanic,24.1,Middle,Sedentary,Moderate,Current,4.7,Average,High,No,No,No,No,No,No,No,none,111,99,89,32.9,116.0,1.21,Normal
+36,Male,African,22.1,Low,Sedentary,none,Current,5.9,Average,Moderate,No,Yes,No,No,No,No,No,none,121,79,55,32.8,172.9,1.82,Normal
+30,Male,Hispanic,29.1,Low,Sedentary,Heavy,Former,6.3,Average,Moderate,No,No,No,No,No,No,Yes,none,115,95,67,31.8,106.1,1.06,Overweight
+53,Female,South Asian,25.6,Middle,Sedentary,Heavy,Never,5.2,Good,Low,No,No,No,No,No,No,No,none,124,85,72,31.7,83.8,0.87,Overweight
+18,Female,South Asian,26.2,High,Sedentary,none,Never,7.0,Poor,High,Yes,No,No,No,No,No,Yes,Other,129,87,93,31.7,126.1,1.26,Overweight
+29,Female,Hispanic,27.0,Low,Sedentary,Heavy,Current,7.8,Poor,High,Yes,No,No,Yes,No,No,No,Steroids,146,82,71,34.2,99.9,1.09,Overweight
+42,Male,South Asian,24.1,Middle,Moderate,Moderate,Never,8.9,Good,Low,Yes,No,No,No,No,No,No,none,139,81,99,30.6,84.4,0.91,Normal
+42,Male,Caucasian,26.0,Middle,Sedentary,none,Former,6.3,Good,Low,No,No,No,Yes,No,No,No,none,104,79,71,31.4,95.9,0.95,Overweight
+51,Male,Hispanic,26.6,Middle,Moderate,none,Current,8.2,Good,Moderate,No,No,No,Yes,No,Yes,No,none,135,74,67,31.3,84.1,0.85,Overweight
+43,Male,South Asian,32.2,Middle,Active,none,Never,6.4,Average,High,Yes,No,No,No,No,Yes,No,none,110,80,90,33.0,99.4,1.03,Obese
+45,Female,Caucasian,22.8,High,Sedentary,Moderate,Never,5.7,Average,Moderate,No,Yes,No,No,No,No,No,none,128,66,88,32.0,100.7,1.04,Normal
+42,Female,African,36.3,Low,Sedentary,none,Current,4.0,Poor,Moderate,No,No,No,No,No,Yes,No,none,100,84,89,31.1,96.0,0.96,Obese
+43,Male,African,19.1,Low,Moderate,Moderate,Never,4.4,Average,Moderate,No,No,No,No,No,No,No,none,123,99,83,34.0,87.5,0.93,Normal
+56,Female,South Asian,30.7,Middle,Sedentary,Moderate,Former,10.0,Average,High,No,No,No,No,No,No,No,Metformin,93,72,82,33.4,80.8,0.8,Obese
+36,Male,South Asian,28.8,Low,Sedentary,none,Never,6.3,Average,Moderate,Yes,Yes,No,No,No,No,Yes,none,139,78,91,33.9,99.2,0.96,Overweight
+27,Female,Caucasian,23.4,Middle,Moderate,none,Never,8.0,Average,Moderate,No,No,No,No,No,No,No,none,119,89,90,31.8,75.3,0.63,Normal
+53,Female,African,23.8,Middle,Moderate,none,Former,7.4,Average,Low,No,No,No,No,No,No,Yes,Other,109,81,71,30.2,134.9,1.32,Normal
+42,Male,Hispanic,26.6,Middle,Sedentary,none,Never,5.6,Good,Moderate,No,No,No,No,No,No,No,none,122,79,69,30.9,99.4,0.98,Overweight
+33,Male,Caucasian,29.3,Middle,Moderate,Heavy,Former,8.8,Good,Moderate,No,No,No,No,No,No,No,none,103,82,67,31.7,173.2,1.73,Overweight
+47,Male,South Asian,28.0,Middle,Sedentary,none,Never,7.7,Good,High,No,No,No,No,No,No,No,Insulin,116,84,57,32.9,72.1,0.72,Overweight
+41,Male,South Asian,29.0,Middle,Sedentary,none,Never,6.4,Poor,Moderate,No,No,No,No,No,No,No,Other,105,88,60,31.4,126.0,1.31,Overweight
+47,Female,Other,21.0,Low,Sedentary,none,Never,6.4,Good,Low,No,No,Yes,Yes,No,No,No,Insulin,128,79,82,32.9,85.2,0.79,Normal
+42,Female,South Asian,28.6,High,Sedentary,none,Current,7.5,Good,Moderate,No,Yes,Yes,No,No,No,No,Metformin,112,75,74,30.2,162.0,1.57,Overweight
+33,Female,South Asian,18.0,High,Sedentary,none,Never,8.2,Good,High,No,Yes,No,No,No,No,No,none,122,83,61,31.4,107.1,1.06,Underweight
+30,Male,Hispanic,29.4,High,Moderate,Moderate,Never,7.0,Average,High,No,No,No,Yes,No,No,No,none,130,77,76,32.0,137.1,1.34,Overweight
+47,Female,South Asian,27.2,Low,Moderate,none,Never,7.6,Good,Moderate,No,Yes,No,Yes,No,No,No,none,106,76,81,31.9,125.3,1.32,Overweight
+38,Female,Caucasian,25.6,Middle,Sedentary,none,Current,4.3,Poor,High,No,No,No,No,No,No,No,none,126,76,72,33.0,78.4,0.81,Overweight
+37,Female,South Asian,28.5,Low,Moderate,none,Never,5.8,Average,Moderate,No,No,No,Yes,No,No,No,none,112,83,79,31.5,126.9,1.18,Overweight
+51,Male,Other,20.1,Middle,Moderate,none,Never,6.3,Good,Moderate,Yes,No,No,Yes,No,No,No,Steroids,126,82,65,32.9,70.1,0.75,Normal
+29,Male,South Asian,29.0,Middle,Sedentary,none,Never,8.0,Good,Low,Yes,No,No,Yes,No,Yes,No,none,153,80,80,31.4,100.4,0.94,Overweight
+21,Female,Caucasian,24.0,Low,Active,none,Never,5.1,Average,Moderate,Yes,Yes,No,No,No,No,No,Metformin,98,83,74,33.0,125.9,1.28,Normal
+41,Female,Other,31.4,Low,Sedentary,Heavy,Never,7.7,Average,High,No,No,No,Yes,No,No,No,none,116,84,86,32.2,88.8,0.84,Obese
+43,Female,Other,23.9,Low,Sedentary,none,Never,9.1,Average,Moderate,No,No,No,No,No,Yes,No,none,122,60,88,31.2,126.2,1.15,Normal
+56,Female,South Asian,25.2,Low,Sedentary,Heavy,Never,6.6,Good,Moderate,No,No,No,No,No,No,No,none,122,96,66,32.5,69.8,0.75,Overweight
+37,Male,Caucasian,25.1,Middle,Moderate,none,Never,7.4,Average,High,Yes,Yes,No,No,No,No,No,Steroids,106,80,56,31.5,113.7,1.29,Overweight
+48,Male,South Asian,18.0,Middle,Sedentary,Moderate,Never,6.5,Good,Moderate,No,Yes,No,Yes,No,No,No,none,108,94,63,32.3,153.8,1.55,Underweight
+59,Female,Caucasian,25.6,Middle,Active,none,Current,7.2,Average,Low,No,No,No,Yes,No,Yes,No,none,135,92,72,33.0,89.0,0.83,Overweight
+46,Female,African,22.7,High,Moderate,none,Never,7.0,Good,Low,Yes,No,Yes,No,No,No,Yes,none,122,80,91,31.4,90.3,0.92,Normal
+33,Male,South Asian,28.2,Low,Moderate,none,Current,9.2,Average,Moderate,Yes,No,No,No,No,No,No,Metformin,119,86,75,31.2,134.2,1.23,Overweight
+43,Female,South Asian,26.5,Middle,Active,none,Former,8.8,Good,Low,No,No,No,No,No,No,No,Metformin,125,73,71,32.1,82.9,0.8,Overweight
+33,Male,Hispanic,25.4,High,Moderate,none,Former,6.4,Average,High,No,No,No,No,No,Yes,No,none,126,66,80,31.3,104.3,1.04,Overweight
+46,Female,Hispanic,18.4,Low,Active,Heavy,Never,8.9,Poor,Moderate,Yes,No,No,No,No,No,Yes,none,117,70,58,31.4,94.6,0.99,Underweight
+45,Male,South Asian,35.8,High,Sedentary,none,Never,7.7,Good,Low,Yes,No,No,No,No,No,Yes,none,135,81,89,31.1,124.0,1.24,Obese
+20,Female,Caucasian,31.9,Low,Moderate,none,Former,5.8,Good,Moderate,No,Yes,No,No,No,No,No,Metformin,119,91,57,31.8,87.4,0.87,Obese
+50,Female,African,28.2,Middle,Active,none,Never,5.5,Poor,High,No,No,No,No,No,Yes,No,none,117,81,68,30.3,105.7,1.06,Overweight
+26,Female,South Asian,27.3,High,Active,none,Former,8.3,Poor,Moderate,No,No,Yes,No,No,No,No,none,103,88,73,32.5,97.7,0.86,Overweight
+47,Female,Other,26.3,Middle,Moderate,none,Never,6.4,Good,Moderate,Yes,No,No,Yes,No,No,No,Metformin,118,72,72,31.7,99.3,0.98,Overweight
+61,Male,African,33.9,Middle,Sedentary,Moderate,Former,7.2,Good,Moderate,No,Yes,No,No,No,No,No,Insulin,112,72,90,30.9,84.5,0.8,Obese
+58,Female,South Asian,29.5,Middle,Active,Moderate,Never,7.4,Poor,Moderate,No,No,No,Yes,No,Yes,No,none,91,60,71,32.9,94.6,0.96,Overweight
+18,Male,African,31.4,Low,Sedentary,Heavy,Never,5.0,Average,High,No,No,No,No,No,No,No,none,108,81,66,31.4,149.1,1.39,Obese
+54,Male,African,34.5,Middle,Moderate,none,Current,7.8,Poor,Low,Yes,No,No,Yes,No,No,No,none,164,83,78,32.2,127.0,1.22,Obese
+41,Male,South Asian,22.2,Middle,Sedentary,none,Never,7.9,Poor,Low,No,No,No,No,No,No,No,none,145,73,72,32.6,94.9,1.02,Normal
+18,Female,Caucasian,26.6,Middle,Moderate,none,Never,8.6,Good,Moderate,No,Yes,No,No,No,Yes,No,Metformin,113,74,71,32.3,108.9,1.16,Overweight
+34,Female,Hispanic,24.8,High,Active,Heavy,Current,10.0,Average,High,No,No,No,Yes,Yes,No,No,none,132,60,58,30.7,112.4,1.18,Normal
+48,Male,Hispanic,18.0,Low,Active,Moderate,Never,7.3,Average,Moderate,No,Yes,No,Yes,No,Yes,No,Insulin,132,77,56,31.8,113.6,1.1,Underweight
+37,Male,South Asian,28.9,Low,Moderate,Moderate,Never,4.9,Average,High,No,No,No,No,No,No,No,none,126,73,75,31.2,88.2,0.98,Overweight
+35,Female,Other,18.8,Middle,Sedentary,Moderate,Never,8.2,Average,High,No,No,No,No,No,No,No,none,112,77,81,33.3,109.0,1.05,Normal
+51,Female,Caucasian,25.0,Middle,Sedentary,Moderate,Never,8.8,Good,Moderate,Yes,No,No,Yes,Yes,No,No,Steroids,109,66,73,32.2,122.6,1.19,Normal
+30,Female,Other,35.3,Middle,Sedentary,Heavy,Former,6.3,Good,Low,Yes,No,No,No,No,Yes,No,none,92,76,73,31.0,77.4,0.77,Obese
+28,Male,Hispanic,24.0,Middle,Moderate,Moderate,Current,7.6,Average,Moderate,Yes,Yes,No,Yes,No,No,No,none,122,67,71,32.2,124.3,1.21,Normal
+49,Female,South Asian,23.9,Middle,Sedentary,none,Never,8.5,Good,Moderate,No,No,No,No,No,No,No,none,141,88,62,32.3,178.9,1.8,Normal
+39,Male,African,27.0,Low,Moderate,none,Former,7.8,Average,Moderate,No,No,No,No,No,No,No,none,111,84,77,34.6,112.3,1.16,Overweight
+52,Female,Caucasian,30.6,High,Sedentary,none,Current,7.2,Poor,Moderate,Yes,No,No,Yes,Yes,No,No,Steroids,113,87,71,31.9,129.0,1.28,Obese
+46,Female,South Asian,22.3,Middle,Sedentary,none,Former,6.2,Poor,Moderate,No,No,No,No,No,No,No,Metformin,117,69,88,31.9,93.1,1.03,Normal
+45,Male,Hispanic,18.4,Low,Sedentary,Moderate,Never,5.7,Average,High,No,No,No,No,No,No,No,Steroids,90,81,79,31.1,76.0,0.76,Underweight
+29,Male,South Asian,25.5,Low,Moderate,none,Never,7.8,Average,High,Yes,No,No,No,No,No,No,none,124,67,85,32.2,145.3,1.47,Overweight
+34,Female,South Asian,26.6,Middle,Moderate,none,Never,7.2,Average,Low,No,No,No,No,No,No,No,Metformin,108,71,86,32.6,116.7,1.18,Overweight
+29,Male,Caucasian,18.9,Low,Active,Heavy,Current,5.1,Average,Low,No,Yes,No,No,No,No,No,none,108,84,81,32.2,105.1,1.0,Normal
+34,Male,South Asian,23.6,Low,Sedentary,none,Current,6.6,Average,Moderate,No,No,No,No,No,No,Yes,none,111,62,71,31.3,110.3,1.07,Normal
+53,Male,South Asian,19.2,Middle,Sedentary,Moderate,Former,10.0,Good,Moderate,Yes,No,No,No,No,Yes,No,Metformin,124,100,68,31.9,100.8,1.0,Normal
+44,Male,South Asian,23.8,Low,Sedentary,none,Never,7.3,Average,Low,No,No,No,No,No,No,No,Metformin,115,97,83,30.1,73.4,0.7,Normal
+59,Male,Hispanic,30.0,Low,Sedentary,none,Never,8.3,Good,Moderate,No,No,No,Yes,No,No,Yes,Metformin,120,86,82,31.2,98.2,0.92,Overweight
+37,Female,South Asian,23.4,Low,Sedentary,none,Never,7.4,Good,Low,No,No,No,No,No,No,No,none,129,79,55,32.8,98.7,1.03,Normal
+36,Male,South Asian,38.5,Middle,Sedentary,none,Never,7.5,Good,Low,No,No,No,No,No,No,No,none,124,83,93,33.0,103.7,1.01,Obese
+61,Male,South Asian,33.4,Middle,Moderate,none,Never,5.7,Average,High,No,No,No,Yes,No,Yes,No,none,122,79,83,31.9,178.9,1.78,Obese
+37,Female,Caucasian,18.8,Middle,Sedentary,none,Never,4.8,Average,Moderate,Yes,No,No,No,No,No,No,none,125,75,77,31.6,74.2,0.8,Normal
+43,Female,South Asian,30.2,Middle,Active,Moderate,Never,8.1,Average,Moderate,No,No,No,No,No,No,Yes,none,122,74,59,31.3,79.9,0.79,Obese
+45,Male,Caucasian,18.4,Middle,Sedentary,Heavy,Current,9.1,Poor,High,Yes,Yes,No,No,No,No,Yes,Metformin,109,70,71,33.2,122.5,1.27,Underweight
+52,Female,Caucasian,31.2,Low,Sedentary,none,Never,5.6,Average,High,No,No,No,No,No,No,No,none,95,74,56,33.3,69.7,0.66,Obese
+30,Female,African,27.6,Middle,Active,none,Never,7.9,Average,High,No,No,Yes,No,No,No,No,Metformin,123,103,80,31.2,108.6,1.04,Overweight
+39,Female,South Asian,25.1,High,Sedentary,Moderate,Never,5.7,Good,Moderate,No,Yes,No,No,No,No,No,none,134,81,80,33.1,162.5,1.67,Overweight
+43,Male,South Asian,28.6,High,Moderate,Moderate,Never,10.0,Average,Moderate,Yes,No,No,Yes,No,No,No,Insulin,113,82,50,32.5,90.5,0.88,Overweight
+47,Female,African,20.4,Middle,Sedentary,Moderate,Current,6.9,Average,Moderate,No,No,No,No,No,No,No,none,116,105,61,32.8,119.1,1.19,Normal
+44,Male,African,27.0,Low,Sedentary,none,Never,5.3,Average,Low,No,Yes,No,No,No,No,No,none,127,89,84,31.9,214.4,2.0,Overweight
+26,Female,South Asian,28.2,Middle,Sedentary,none,Never,10.0,Average,Moderate,Yes,No,No,Yes,No,No,No,none,106,67,64,33.4,69.0,0.79,Overweight
+41,Male,Other,18.0,Middle,Active,none,Never,8.8,Average,Moderate,No,No,No,No,No,Yes,No,Metformin,136,89,73,33.8,118.8,1.26,Underweight
+31,Female,Caucasian,30.5,Middle,Active,Moderate,Former,5.0,Good,Low,Yes,No,No,Yes,No,No,No,Insulin,114,79,57,32.5,105.8,0.99,Obese
+21,Male,Hispanic,26.9,Low,Active,none,Current,6.8,Good,Moderate,Yes,No,No,No,No,No,No,none,120,80,79,32.8,81.2,0.87,Overweight
+37,Male,African,24.2,Middle,Active,none,Former,9.4,Poor,Moderate,No,No,No,No,No,No,No,none,133,82,77,33.2,79.3,0.81,Normal
+70,Female,Caucasian,27.8,Middle,Active,none,Former,6.8,Poor,Moderate,No,Yes,No,Yes,No,No,No,Steroids,105,80,91,32.4,120.9,1.28,Overweight
+50,Other,South Asian,28.0,Low,Active,none,Never,10.0,Good,Moderate,No,No,No,No,No,No,No,Steroids,105,84,86,30.0,125.4,1.25,Overweight
+39,Male,Hispanic,26.0,Middle,Sedentary,Moderate,Current,7.8,Average,High,Yes,Yes,No,Yes,No,Yes,No,none,100,81,69,32.5,115.3,1.19,Overweight
+40,Male,African,24.8,Middle,Sedentary,Heavy,Never,7.9,Average,Moderate,No,No,No,No,No,No,No,Metformin,136,69,88,32.4,80.1,0.79,Normal
+25,Female,South Asian,22.4,High,Sedentary,none,Never,5.8,Good,Moderate,No,No,No,No,No,Yes,No,Metformin,143,89,50,32.0,79.2,0.79,Normal
+25,Male,Hispanic,28.8,Middle,Active,none,Former,4.0,Good,Moderate,No,No,No,No,No,No,Yes,none,124,60,76,32.2,79.1,0.74,Overweight
+49,Male,Other,21.1,Low,Active,Moderate,Current,7.8,Poor,High,Yes,No,No,Yes,No,No,No,Other,117,91,71,31.1,111.2,1.02,Normal
+40,Female,South Asian,25.3,Middle,Moderate,Moderate,Never,7.3,Poor,Low,No,Yes,No,No,No,No,No,Other,121,98,65,31.8,161.6,1.54,Overweight
+28,Male,South Asian,28.1,Low,Moderate,Moderate,Never,6.1,Good,Low,No,No,No,No,No,No,No,none,102,84,81,31.1,234.1,2.0,Overweight
+25,Male,South Asian,29.6,Middle,Sedentary,Heavy,Never,6.3,Average,Moderate,No,No,No,No,No,No,Yes,Steroids,114,85,70,31.5,87.7,0.89,Overweight
+54,Male,South Asian,18.0,Low,Sedentary,Moderate,Never,7.9,Average,Moderate,No,No,No,Yes,No,No,No,Steroids,123,74,78,32.2,93.8,0.94,Underweight
+37,Female,South Asian,24.1,Low,Moderate,Moderate,Never,6.9,Average,Moderate,No,No,No,No,No,No,No,none,90,87,75,32.1,72.3,0.8,Normal
+21,Male,South Asian,28.1,Low,Moderate,Moderate,Former,6.2,Good,Moderate,Yes,Yes,No,No,No,Yes,No,Steroids,134,79,73,32.4,135.4,1.35,Overweight
+19,Female,Caucasian,34.5,Low,Sedentary,none,Never,8.0,Good,High,No,No,No,No,No,No,No,Steroids,92,72,72,31.8,105.9,1.07,Obese
+54,Male,South Asian,23.7,High,Active,Moderate,Former,7.4,Average,Low,No,No,No,No,No,Yes,No,none,133,71,78,32.1,124.2,1.23,Normal
+61,Male,Other,24.6,Middle,Sedentary,none,Current,6.7,Average,Low,No,No,No,No,No,No,No,Insulin,133,88,73,34.0,94.7,1.0,Normal
+27,Female,South Asian,23.5,Low,Moderate,Moderate,Never,7.9,Average,Moderate,No,No,No,No,No,No,No,Metformin,123,68,81,32.3,85.2,0.88,Normal
+49,Female,South Asian,22.7,Low,Active,none,Never,6.3,Average,Moderate,No,No,Yes,No,No,Yes,Yes,Metformin,139,95,82,31.0,82.2,0.88,Normal
+37,Male,Hispanic,25.5,Middle,Sedentary,none,Former,8.6,Poor,High,No,No,No,No,No,Yes,No,Metformin,111,99,62,30.0,105.7,1.0,Overweight
+58,Female,Caucasian,21.1,Middle,Sedentary,none,Never,5.0,Poor,Low,Yes,No,No,Yes,No,No,Yes,none,97,71,84,31.2,109.9,1.05,Normal
+25,Female,Caucasian,24.7,Middle,Moderate,none,Never,6.1,Average,Low,No,No,No,No,No,Yes,No,none,127,91,83,30.9,89.8,0.85,Normal
+66,Female,Hispanic,26.7,Low,Sedentary,none,Never,8.9,Good,Moderate,No,Yes,No,Yes,No,Yes,No,Metformin,107,91,77,33.3,125.2,1.23,Overweight
+60,Female,Other,20.3,High,Moderate,none,Never,7.3,Good,Low,No,No,No,No,No,No,No,none,128,71,85,33.0,92.5,0.91,Normal
+31,Male,Hispanic,25.5,Middle,Active,none,Never,6.1,Average,Moderate,No,No,No,Yes,No,No,No,none,112,85,73,31.1,69.8,0.69,Overweight
+40,Female,African,25.9,Low,Sedentary,none,Current,7.0,Good,Moderate,Yes,No,Yes,No,No,No,No,none,91,88,68,32.6,77.1,0.78,Overweight
+28,Female,Other,26.4,Middle,Moderate,Heavy,Former,6.5,Average,Low,Yes,No,No,No,No,No,No,Insulin,115,71,85,30.8,77.6,0.72,Overweight
+25,Male,Other,26.5,Low,Sedentary,Heavy,Current,4.6,Average,High,No,No,No,No,No,No,Yes,none,119,70,83,32.8,90.9,0.94,Overweight
+32,Female,South Asian,32.9,Middle,Sedentary,none,Never,7.7,Average,Moderate,No,Yes,No,No,No,No,No,Insulin,117,71,76,33.4,104.7,1.1,Obese
+52,Male,South Asian,32.1,High,Sedentary,Moderate,Current,6.1,Average,Low,Yes,No,No,Yes,No,No,No,none,117,86,68,31.1,111.6,1.19,Obese
+29,Male,South Asian,26.9,Middle,Moderate,Moderate,Current,6.1,Average,High,No,No,No,No,No,No,No,none,138,75,59,30.7,119.8,1.18,Overweight
+45,Female,Hispanic,25.2,Low,Active,none,Never,6.5,Poor,Moderate,No,Yes,No,Yes,Yes,No,Yes,none,116,78,83,31.3,100.8,0.95,Overweight
+28,Male,South Asian,18.3,Low,Sedentary,none,Former,8.5,Good,Low,No,No,No,Yes,No,No,No,none,105,101,70,31.1,82.1,0.85,Underweight
+30,Male,South Asian,20.5,High,Moderate,none,Never,6.4,Good,High,Yes,No,No,No,No,Yes,No,none,113,100,65,33.8,79.0,0.84,Normal
+46,Male,Caucasian,24.1,Middle,Active,Moderate,Current,6.8,Poor,High,No,No,No,No,No,No,No,Insulin,129,76,68,30.9,115.8,1.19,Normal
+53,Female,South Asian,23.2,Low,Sedentary,none,Former,8.3,Good,Low,Yes,No,No,No,No,No,No,none,119,89,70,30.3,171.5,1.77,Normal
+39,Female,South Asian,24.9,Middle,Sedentary,none,Former,5.7,Good,Moderate,Yes,No,Yes,Yes,No,No,No,none,140,74,71,30.7,71.3,0.69,Normal
+30,Female,Hispanic,21.1,Low,Sedentary,none,Current,4.9,Good,Moderate,Yes,No,No,No,No,No,No,none,119,60,76,32.1,79.3,0.86,Normal
+48,Female,Other,28.4,Middle,Sedentary,none,Never,8.7,Average,Low,Yes,No,No,No,No,No,No,Metformin,102,83,80,30.9,69.7,0.72,Overweight
+41,Female,Caucasian,27.1,Middle,Sedentary,none,Never,7.4,Average,Moderate,Yes,No,No,Yes,No,No,No,none,115,79,86,33.5,117.7,1.2,Overweight
+45,Male,Hispanic,22.4,Low,Moderate,Moderate,Never,6.4,Poor,Low,Yes,No,No,No,No,No,No,none,137,81,69,32.8,70.4,0.73,Normal
+34,Female,South Asian,20.4,High,Moderate,Moderate,Never,9.2,Average,High,No,No,No,No,Yes,No,No,none,123,96,91,33.3,108.1,1.14,Normal
+58,Male,Other,24.1,Middle,Sedentary,Moderate,Former,6.1,Poor,Low,Yes,No,No,No,No,No,No,Insulin,100,62,74,32.9,100.1,0.98,Normal
+25,Female,Other,22.1,Low,Active,none,Never,7.1,Good,Moderate,No,Yes,No,No,No,Yes,No,none,115,90,56,34.4,71.4,0.75,Normal
+47,Female,South Asian,24.7,Middle,Moderate,Moderate,Former,4.6,Good,Moderate,No,No,No,No,No,No,No,none,106,73,89,32.8,112.0,1.15,Normal
+31,Female,South Asian,23.6,Middle,Moderate,none,Current,5.4,Average,Low,Yes,No,No,No,No,No,No,none,121,84,79,31.7,153.2,1.51,Normal
+37,Female,South Asian,28.4,Low,Active,none,Current,6.5,Average,Moderate,No,No,Yes,No,No,Yes,No,none,117,100,90,32.9,82.7,0.84,Overweight
+43,Female,Hispanic,23.0,Low,Sedentary,none,Current,6.0,Poor,Low,No,No,No,No,No,No,No,none,111,77,95,31.6,94.9,1.05,Normal
+31,Male,South Asian,26.8,Low,Moderate,none,Never,4.0,Poor,Moderate,Yes,No,No,No,No,No,No,none,121,80,83,31.6,79.9,0.73,Overweight
+53,Male,Caucasian,29.4,Middle,Sedentary,none,Never,6.3,Good,Low,No,No,No,No,No,No,No,Insulin,133,89,84,33.6,85.4,0.86,Overweight
+68,Female,South Asian,26.0,Middle,Sedentary,none,Never,7.4,Poor,High,No,No,No,Yes,No,No,No,none,121,76,85,32.9,89.6,0.93,Overweight
+37,Male,South Asian,26.5,Low,Moderate,none,Never,5.9,Good,Low,Yes,Yes,No,No,No,Yes,No,none,155,88,78,30.0,127.1,1.17,Overweight
+41,Male,Other,20.1,Low,Sedentary,none,Current,7.6,Average,Moderate,No,Yes,No,No,No,No,No,Steroids,139,76,90,31.9,99.9,0.96,Normal
+47,Male,South Asian,20.7,Middle,Moderate,none,Never,5.4,Average,High,No,No,No,No,No,No,No,none,126,72,77,33.4,87.0,0.95,Normal
+27,Female,Caucasian,31.4,Middle,Moderate,none,Never,6.4,Good,High,No,Yes,Yes,No,No,No,No,Insulin,129,91,80,32.8,108.4,1.18,Obese
+44,Male,African,25.5,Low,Sedentary,Moderate,Current,8.6,Average,High,No,No,No,No,No,Yes,No,none,108,91,73,32.4,124.8,1.26,Overweight
+52,Male,African,30.4,Middle,Active,none,Never,6.2,Poor,Moderate,Yes,Yes,No,No,No,No,No,none,131,83,79,33.5,184.5,1.8,Obese
+41,Female,African,24.1,Middle,Sedentary,Moderate,Former,8.0,Average,Moderate,No,No,No,No,No,No,No,Metformin,138,69,80,32.5,76.8,0.8,Normal
+35,Female,Hispanic,18.0,Middle,Moderate,none,Never,6.9,Average,Moderate,No,No,No,No,No,No,Yes,Insulin,115,97,68,31.2,92.7,0.83,Underweight
+52,Female,South Asian,22.1,Middle,Sedentary,Moderate,Never,5.0,Good,Moderate,No,No,No,No,Yes,Yes,No,none,147,66,57,33.0,111.3,1.14,Normal
+37,Male,Hispanic,26.2,Middle,Sedentary,none,Never,8.2,Average,Low,No,Yes,No,No,No,No,No,none,112,77,86,32.3,144.7,1.43,Overweight
+55,Female,African,25.0,Middle,Sedentary,none,Never,8.8,Average,Low,No,No,No,No,No,No,No,Insulin,100,88,62,32.5,80.1,0.76,Normal
+25,Male,Caucasian,29.0,Low,Sedentary,none,Never,8.5,Average,Low,No,No,No,No,No,Yes,No,none,102,102,71,32.5,71.4,0.71,Overweight
+46,Female,African,32.2,Middle,Moderate,none,Never,7.0,Average,High,Yes,No,No,Yes,No,No,No,none,97,63,80,32.2,97.4,1.05,Obese
+49,Male,South Asian,21.6,Middle,Sedentary,Moderate,Never,7.1,Good,High,No,No,No,No,No,Yes,No,Steroids,131,90,63,31.8,112.1,1.06,Normal
+48,Male,African,25.8,High,Moderate,none,Never,6.0,Poor,High,No,No,No,Yes,No,No,No,none,116,81,96,32.3,84.9,0.75,Overweight
+62,Male,South Asian,32.2,Middle,Sedentary,none,Never,6.3,Good,Moderate,No,No,No,No,No,Yes,No,none,118,74,97,32.5,136.9,1.31,Obese
+50,Female,Hispanic,23.6,Middle,Sedentary,Moderate,Current,6.1,Average,High,Yes,No,No,No,No,Yes,No,Metformin,126,85,77,32.2,119.1,1.19,Normal
+51,Male,South Asian,30.6,Middle,Moderate,none,Never,6.2,Average,Moderate,Yes,Yes,No,Yes,No,No,No,none,129,84,79,33.2,127.8,1.23,Obese
+47,Female,South Asian,21.3,Middle,Moderate,Moderate,Former,6.3,Poor,High,No,No,No,Yes,No,No,No,none,121,67,82,32.7,91.4,0.95,Normal
+60,Male,South Asian,31.9,Low,Sedentary,none,Current,7.5,Average,Low,No,No,No,No,No,No,Yes,none,118,71,77,32.5,125.2,1.24,Obese
+40,Male,South Asian,31.0,Middle,Moderate,none,Never,7.4,Average,Low,Yes,No,No,No,No,Yes,No,none,142,82,72,30.6,135.7,1.35,Obese
+51,Female,Hispanic,28.8,Middle,Sedentary,none,Former,8.5,Average,Moderate,No,No,No,No,No,No,No,none,117,70,89,30.5,84.3,0.74,Overweight
+23,Male,African,27.4,Middle,Sedentary,Moderate,Former,7.2,Good,Moderate,Yes,No,No,No,No,Yes,Yes,none,121,60,71,30.9,99.0,0.99,Overweight
+55,Female,Caucasian,18.0,Low,Active,none,Former,9.5,Good,Low,Yes,Yes,No,No,No,No,No,none,120,79,82,30.0,99.8,0.98,Underweight
+39,Female,Hispanic,24.8,Middle,Sedentary,none,Never,6.4,Average,High,No,Yes,No,No,No,No,No,none,90,70,59,32.1,124.6,1.26,Normal
+54,Male,Caucasian,27.6,Low,Active,none,Never,7.9,Poor,Moderate,No,No,No,No,No,No,No,Insulin,144,85,75,31.7,91.3,0.91,Overweight
+53,Female,African,22.3,Middle,Sedentary,Heavy,Never,10.0,Average,Moderate,No,No,No,Yes,No,No,No,Steroids,125,91,72,32.8,80.0,0.76,Normal
+23,Male,Caucasian,23.1,Middle,Sedentary,none,Current,9.0,Good,Moderate,No,No,No,No,No,No,No,none,127,89,93,31.9,84.6,0.92,Normal
+25,Male,Hispanic,32.0,Middle,Active,Moderate,Never,7.4,Average,Low,Yes,No,No,Yes,No,No,No,none,113,75,86,33.1,81.5,0.81,Obese
+40,Male,South Asian,37.4,Low,Active,none,Current,6.5,Average,Low,No,No,No,No,No,No,No,none,122,75,79,31.4,126.7,1.26,Obese
+73,Female,South Asian,20.5,Low,Moderate,none,Never,4.8,Average,Low,Yes,Yes,No,Yes,No,No,No,none,106,74,51,31.4,126.4,1.3,Normal
+55,Female,South Asian,30.4,Low,Sedentary,Heavy,Former,6.8,Average,Low,No,No,No,Yes,No,No,No,none,164,89,95,30.0,79.5,0.77,Obese
+22,Male,African,23.4,Middle,Active,none,Former,7.7,Poor,Low,No,No,No,No,No,No,Yes,none,122,65,59,32.3,98.9,1.0,Normal
+34,Female,African,28.5,Middle,Sedentary,Moderate,Never,7.9,Poor,Moderate,No,No,No,Yes,No,Yes,No,none,135,88,80,33.4,79.5,0.75,Overweight
+42,Female,South Asian,20.3,Low,Sedentary,none,Never,8.9,Poor,High,No,No,No,No,No,No,No,none,90,74,77,32.2,88.7,0.92,Normal
+54,Female,African,39.9,Middle,Sedentary,Moderate,Never,5.8,Average,Moderate,No,No,No,Yes,No,No,No,Insulin,109,68,80,31.7,77.7,0.72,Obese
+49,Male,South Asian,30.6,Low,Sedentary,none,Former,6.1,Average,High,No,No,No,No,No,No,No,none,93,75,74,33.2,98.6,0.89,Obese
+25,Female,South Asian,18.0,Middle,Moderate,none,Never,7.8,Average,High,No,Yes,No,No,Yes,No,No,none,117,90,77,31.9,110.5,1.12,Underweight
+36,Female,South Asian,32.2,Low,Active,none,Never,10.0,Poor,Moderate,Yes,No,No,No,No,No,No,none,125,86,94,32.1,103.6,1.06,Obese
+47,Female,Caucasian,25.1,Low,Active,none,Never,7.9,Average,Low,No,No,No,No,No,No,No,Metformin,135,91,77,30.5,94.0,0.9,Overweight
+43,Male,Other,33.1,Middle,Moderate,none,Never,5.9,Poor,Moderate,Yes,No,No,No,No,No,No,none,110,65,71,31.6,99.5,0.99,Obese
+62,Male,Hispanic,18.0,Low,Moderate,none,Former,7.8,Poor,Moderate,No,No,No,Yes,No,Yes,No,Metformin,131,69,55,32.1,84.3,0.88,Underweight
+54,Female,African,28.8,Low,Sedentary,none,Former,6.2,Average,Moderate,No,Yes,No,No,Yes,No,No,Metformin,132,60,72,32.0,107.3,0.95,Overweight
+28,Female,Caucasian,19.4,Low,Moderate,none,Former,7.5,Average,Low,No,No,Yes,No,Yes,Yes,No,none,123,90,74,33.3,95.2,0.9,Normal
+36,Male,South Asian,18.0,Middle,Sedentary,Moderate,Current,6.8,Average,Low,No,No,No,No,No,No,No,none,90,83,84,31.5,112.3,1.13,Underweight
+33,Female,Other,30.0,Low,Moderate,Moderate,Current,5.5,Average,Moderate,No,No,No,No,No,No,No,none,126,66,88,31.7,131.0,1.3,Overweight
+52,Female,Caucasian,22.8,Middle,Sedentary,none,Never,5.4,Poor,Low,Yes,No,No,No,No,No,No,Metformin,102,84,83,32.0,101.4,1.0,Normal
+38,Male,Hispanic,25.3,Low,Moderate,none,Former,8.0,Good,Low,No,No,No,No,No,No,No,Metformin,105,82,76,31.7,82.8,0.8,Overweight
+42,Female,African,27.5,Middle,Sedentary,none,Never,7.2,Poor,Low,No,No,Yes,No,No,Yes,No,Insulin,130,71,73,31.0,100.2,1.0,Overweight
+29,Female,Hispanic,19.6,High,Sedentary,Heavy,Never,4.6,Average,Moderate,No,No,No,No,No,No,No,none,139,90,71,32.3,126.4,1.21,Normal
+71,Female,Caucasian,28.0,Low,Sedentary,none,Current,4.7,Average,Low,No,No,No,Yes,No,No,No,Other,121,88,63,32.1,88.6,0.88,Overweight
+52,Female,South Asian,34.8,Low,Moderate,none,Never,7.5,Good,High,No,No,No,Yes,Yes,No,No,none,92,77,70,30.9,136.1,1.41,Obese
+33,Male,Hispanic,27.8,Middle,Sedentary,none,Former,8.1,Average,Moderate,No,No,No,No,No,No,No,none,120,79,72,31.7,78.2,0.82,Overweight
+35,Female,Caucasian,25.4,Low,Sedentary,none,Never,5.8,Average,High,No,Yes,No,Yes,No,No,No,none,120,82,76,32.5,125.5,1.24,Overweight
+37,Female,Hispanic,26.3,Low,Sedentary,Moderate,Never,8.2,Average,Moderate,No,Yes,No,No,No,No,No,none,113,85,84,33.2,126.1,1.26,Overweight
+53,Male,African,20.2,Low,Active,none,Never,4.8,Average,High,No,No,No,No,No,No,No,none,100,94,68,31.4,125.9,1.23,Normal
+36,Male,South Asian,25.1,Low,Sedentary,none,Never,7.6,Average,Low,No,Yes,No,No,No,No,No,none,138,72,81,31.8,110.1,1.1,Overweight
+46,Female,South Asian,22.7,Middle,Active,Moderate,Never,6.7,Average,Moderate,No,No,No,Yes,No,No,No,Steroids,114,95,57,32.8,126.0,1.25,Normal
+48,Female,South Asian,29.6,Middle,Moderate,Heavy,Current,6.1,Good,Low,No,No,No,No,Yes,No,No,Steroids,136,77,85,30.8,75.7,0.77,Overweight
+38,Male,Other,26.5,High,Moderate,Moderate,Current,8.0,Average,Moderate,Yes,No,No,Yes,No,No,No,Other,124,76,68,32.8,69.7,0.77,Overweight
+33,Female,South Asian,21.2,High,Moderate,Moderate,Never,7.5,Average,High,No,Yes,No,Yes,Yes,No,No,none,118,85,64,31.0,185.5,1.84,Normal
+21,Female,South Asian,34.4,Middle,Sedentary,none,Never,5.1,Average,Low,No,No,No,No,Yes,Yes,No,none,108,66,77,32.4,141.6,1.4,Obese
+60,Male,South Asian,21.4,Low,Sedentary,Moderate,Current,5.0,Poor,Low,No,No,No,Yes,No,No,No,Insulin,100,68,73,31.9,71.3,0.67,Normal
+23,Male,Caucasian,29.7,Middle,Moderate,none,Never,8.7,Average,Low,Yes,No,No,No,No,No,No,Metformin,100,92,77,32.4,90.9,1.01,Overweight
+18,Male,Caucasian,22.1,Low,Moderate,none,Never,8.7,Average,Low,No,No,No,No,No,No,No,Steroids,110,67,90,33.2,153.9,1.61,Normal
+49,Female,South Asian,31.5,Low,Sedentary,none,Never,6.2,Average,Low,Yes,No,No,No,No,No,No,none,139,88,53,31.4,114.0,1.21,Obese
+47,Female,African,33.9,Low,Sedentary,none,Former,5.4,Average,Moderate,No,No,No,Yes,No,No,No,Insulin,119,72,90,34.2,100.1,1.09,Obese
+65,Female,South Asian,28.5,Middle,Moderate,none,Current,7.5,Average,Moderate,No,No,No,Yes,No,No,No,none,121,80,74,31.9,93.1,0.96,Overweight
+18,Female,Other,24.5,Low,Active,Moderate,Current,6.4,Good,Low,No,No,No,Yes,No,No,No,none,121,89,72,32.0,104.6,1.1,Normal
+33,Other,Caucasian,19.7,Low,Sedentary,Heavy,Current,6.1,Good,Moderate,Yes,No,No,No,No,No,No,Metformin,90,76,50,32.0,83.7,0.84,Normal
+44,Female,Caucasian,30.4,Middle,Sedentary,none,Never,6.1,Good,Low,Yes,No,No,Yes,No,No,No,Steroids,124,81,67,31.5,111.1,1.04,Obese
+80,Female,Other,31.3,Low,Moderate,none,Current,7.8,Average,Low,No,No,No,No,No,No,No,none,90,82,87,30.9,85.7,0.87,Obese
+80,Male,Caucasian,31.5,Middle,Active,none,Never,4.9,Poor,Moderate,No,Yes,No,No,No,No,Yes,none,114,74,78,32.1,116.7,1.29,Obese
+21,Female,South Asian,30.8,Middle,Moderate,Moderate,Never,6.7,Good,High,No,No,No,No,No,Yes,No,none,105,72,87,30.0,79.9,0.75,Obese
+41,Female,South Asian,22.6,Middle,Sedentary,none,Never,7.8,Average,High,No,Yes,No,No,No,Yes,No,Metformin,90,74,75,32.1,118.5,1.15,Normal
+28,Female,South Asian,25.4,Low,Moderate,Heavy,Former,9.7,Good,Low,No,No,No,No,No,No,No,none,111,79,92,33.5,100.3,1.05,Overweight
+50,Male,South Asian,24.4,Middle,Moderate,none,Never,7.7,Average,High,No,No,No,No,No,No,No,Other,108,71,80,31.1,107.3,0.99,Normal
+45,Female,South Asian,24.2,Middle,Sedentary,none,Former,5.3,Average,Moderate,No,No,Yes,Yes,No,No,No,none,133,82,70,32.2,110.2,1.12,Normal
+59,Female,South Asian,18.0,Low,Active,none,Never,7.5,Average,Moderate,Yes,No,No,Yes,No,No,No,Steroids,104,82,99,32.1,99.2,0.96,Underweight
+46,Male,South Asian,18.0,Middle,Sedentary,none,Former,7.9,Average,Low,No,No,No,No,No,No,No,none,131,89,79,31.1,69.7,0.71,Underweight
+66,Male,South Asian,21.9,Low,Moderate,Heavy,Never,6.1,Average,High,Yes,No,No,No,No,No,No,none,124,77,57,30.6,79.3,0.76,Normal
+41,Male,South Asian,26.4,Middle,Sedentary,Heavy,Current,8.0,Good,Moderate,Yes,No,No,Yes,No,No,No,none,142,74,87,31.6,136.2,1.34,Overweight
+45,Female,South Asian,24.2,Middle,Sedentary,Moderate,Current,5.4,Average,Low,No,No,No,No,No,Yes,No,Steroids,122,71,72,31.9,77.3,0.7,Normal
+28,Male,African,22.0,Middle,Sedentary,none,Never,6.1,Average,Moderate,No,No,No,No,No,Yes,No,Insulin,110,105,82,33.7,125.1,1.28,Normal
+51,Female,South Asian,25.9,Middle,Sedentary,none,Current,7.6,Average,Low,No,No,No,No,No,No,No,none,114,73,98,31.2,98.8,0.92,Overweight
+62,Male,African,40.0,Low,Moderate,Heavy,Never,4.0,Good,Low,No,No,No,Yes,No,No,No,Other,138,76,59,31.8,149.2,1.47,Obese
+50,Male,African,18.0,Middle,Moderate,none,Current,7.7,Average,Moderate,No,No,No,No,No,No,Yes,none,120,73,87,32.2,69.9,0.73,Underweight
+39,Male,Other,30.5,Middle,Active,Moderate,Former,6.6,Poor,Low,No,No,No,No,No,No,No,none,103,73,71,31.0,90.3,0.94,Obese
+32,Male,Hispanic,34.2,Middle,Moderate,none,Former,4.5,Average,High,Yes,No,No,No,No,No,No,none,144,91,78,32.3,76.8,0.78,Obese
+53,Male,African,34.0,Low,Sedentary,Moderate,Never,7.8,Poor,High,No,Yes,No,Yes,No,No,Yes,Other,127,87,64,30.5,125.9,1.27,Obese
+35,Male,African,18.0,Low,Sedentary,Moderate,Former,6.0,Poor,Low,No,No,No,No,No,Yes,Yes,Metformin,115,80,74,31.8,98.7,1.04,Underweight
+70,Female,Caucasian,25.4,Middle,Moderate,none,Former,10.0,Average,Low,No,Yes,No,No,No,No,No,Metformin,94,74,76,31.5,78.3,0.73,Overweight
+24,Male,Caucasian,27.0,Low,Sedentary,none,Never,9.7,Good,Low,Yes,No,No,No,No,No,No,none,123,60,58,31.9,101.5,1.04,Overweight
+66,Male,Hispanic,23.6,High,Moderate,none,Never,6.3,Average,Low,Yes,No,No,No,No,Yes,No,Insulin,118,99,72,31.8,192.1,1.98,Normal
+48,Male,South Asian,23.6,Middle,Sedentary,none,Never,8.7,Average,Moderate,No,No,No,Yes,No,Yes,No,Metformin,106,74,80,32.2,97.8,1.04,Normal
+35,Male,African,22.6,Low,Sedentary,none,Never,7.7,Poor,Low,No,No,No,No,No,No,No,none,111,76,85,31.5,124.7,1.26,Normal
+28,Male,South Asian,26.8,Middle,Active,Moderate,Former,6.9,Good,Low,No,No,No,No,No,No,Yes,Other,109,87,77,30.8,85.4,0.81,Overweight
+43,Male,South Asian,18.0,Low,Active,none,Never,4.3,Average,Low,No,No,No,No,No,No,No,none,106,74,70,33.1,124.6,1.17,Underweight
+50,Female,South Asian,40.0,Low,Sedentary,none,Current,5.8,Average,Low,No,No,No,No,No,No,No,none,103,82,62,32.1,104.7,1.01,Obese
+38,Male,Other,28.5,Middle,Sedentary,none,Never,8.4,Average,High,No,No,No,No,No,Yes,No,Metformin,144,90,61,33.5,85.8,0.9,Overweight
+40,Other,South Asian,18.1,Middle,Moderate,Moderate,Never,8.8,Average,Moderate,No,No,No,Yes,No,No,No,none,113,77,89,31.8,70.7,0.67,Underweight
+18,Female,Caucasian,19.4,High,Moderate,none,Never,6.7,Poor,Low,No,No,No,No,No,No,No,none,109,91,70,31.1,93.0,0.95,Normal
+56,Female,African,23.9,Low,Sedentary,Moderate,Former,5.6,Average,Moderate,Yes,No,No,No,Yes,No,Yes,none,110,100,91,31.2,94.2,0.96,Normal
+55,Male,Caucasian,34.1,Middle,Active,none,Current,9.2,Average,Low,No,Yes,No,Yes,No,No,Yes,Insulin,110,70,72,32.3,101.7,1.06,Obese
+19,Female,South Asian,21.1,Middle,Sedentary,Moderate,Never,9.0,Poor,Low,No,No,No,Yes,No,No,No,none,116,89,73,31.8,166.0,1.63,Normal
+39,Male,Caucasian,25.7,Low,Sedentary,none,Former,4.5,Average,Moderate,No,No,No,No,No,No,No,none,118,104,85,31.1,85.8,0.82,Overweight
+56,Female,South Asian,31.7,Middle,Active,Moderate,Never,9.7,Poor,High,No,No,No,No,No,No,No,Other,99,87,64,32.5,117.9,1.2,Obese
+80,Male,Hispanic,21.8,Low,Sedentary,none,Never,8.9,Poor,Low,No,Yes,No,Yes,No,No,No,Metformin,125,88,61,32.2,125.4,1.34,Normal
+33,Female,African,27.3,Middle,Sedentary,Moderate,Current,7.5,Average,Moderate,No,No,No,No,No,No,No,Metformin,127,60,78,33.3,113.1,1.18,Overweight
+18,Female,African,26.1,Low,Sedentary,none,Former,6.4,Average,Moderate,No,No,No,No,No,No,No,Metformin,114,91,84,32.6,99.4,0.97,Overweight
+18,Male,Other,28.2,Low,Active,none,Former,6.3,Average,Moderate,Yes,No,No,No,No,Yes,No,none,109,60,71,31.9,88.0,0.78,Overweight
+37,Male,South Asian,25.8,Middle,Sedentary,none,Never,6.4,Poor,High,Yes,No,No,No,No,No,Yes,Other,108,71,79,32.2,170.7,1.78,Overweight
+66,Male,African,24.0,Low,Moderate,none,Never,6.7,Good,Low,No,No,No,No,No,No,No,Insulin,136,97,97,32.3,99.9,1.04,Normal
+31,Male,Caucasian,18.0,Middle,Sedentary,none,Never,8.1,Average,Moderate,No,No,No,No,No,No,No,none,113,74,73,31.9,89.4,0.98,Underweight
+39,Male,South Asian,18.0,Low,Sedentary,Moderate,Current,8.0,Average,Moderate,Yes,No,No,No,No,Yes,No,Metformin,113,94,66,30.4,143.3,1.34,Underweight
+47,Female,South Asian,21.4,Middle,Moderate,none,Never,8.2,Average,Moderate,No,Yes,No,Yes,No,No,No,none,107,64,69,33.5,99.9,1.02,Normal
+36,Male,Other,18.0,Low,Active,Moderate,Current,8.3,Average,Moderate,Yes,No,No,No,No,No,No,none,136,78,70,31.3,74.1,0.65,Underweight
+59,Female,South Asian,20.9,Low,Sedentary,none,Never,6.8,Average,Low,Yes,No,No,No,No,No,No,Metformin,128,92,62,31.1,84.2,0.81,Normal
+31,Male,Hispanic,23.1,Low,Sedentary,none,Never,7.8,Average,Moderate,No,No,No,No,No,No,No,Metformin,112,77,76,33.4,73.2,0.8,Normal
+41,Female,South Asian,23.2,Middle,Active,Moderate,Former,8.3,Average,Moderate,No,No,No,Yes,No,No,No,none,140,80,89,31.5,102.7,0.95,Normal
+21,Female,South Asian,27.1,Middle,Active,Moderate,Never,7.1,Poor,Low,No,No,No,No,No,No,Yes,none,107,64,69,32.8,98.6,0.93,Overweight
+18,Male,Caucasian,29.6,Middle,Sedentary,none,Never,8.3,Good,Moderate,Yes,Yes,No,No,No,No,No,Insulin,123,94,60,33.0,100.3,1.01,Overweight
+35,Male,African,29.8,Low,Sedentary,none,Never,7.8,Average,High,No,Yes,No,No,No,No,No,none,138,82,60,32.1,124.6,1.23,Overweight
+58,Male,South Asian,25.0,Low,Moderate,none,Never,6.7,Average,Moderate,No,No,No,No,No,Yes,No,none,114,60,70,32.3,78.0,0.73,Normal
+49,Female,South Asian,20.7,Middle,Active,Moderate,Current,5.1,Good,Moderate,Yes,No,No,No,No,No,No,none,123,86,80,32.6,97.4,1.05,Normal
+56,Female,African,34.3,Low,Sedentary,Moderate,Current,4.3,Good,Moderate,No,Yes,No,No,No,No,No,none,119,70,63,31.7,125.3,1.27,Obese
+39,Male,South Asian,31.5,Middle,Moderate,none,Current,6.4,Good,Low,No,Yes,No,No,No,No,No,Metformin,124,71,63,32.5,108.5,1.04,Obese
+57,Female,Caucasian,27.1,Middle,Active,Moderate,Never,7.3,Average,Moderate,Yes,No,Yes,Yes,No,No,Yes,none,128,80,77,31.6,73.5,0.84,Overweight
+55,Male,South Asian,21.2,Middle,Sedentary,Moderate,Current,8.4,Average,Moderate,No,No,No,Yes,No,No,No,Metformin,120,67,83,31.0,84.8,0.8,Normal
+45,Female,Caucasian,21.7,Low,Moderate,none,Never,6.1,Poor,Moderate,No,Yes,No,No,No,No,No,none,117,70,77,31.3,99.6,1.03,Normal
+35,Male,Caucasian,24.5,High,Active,none,Never,5.0,Good,Low,No,No,No,No,No,No,No,none,123,64,88,32.6,113.2,1.19,Normal
+41,Male,Caucasian,29.9,Low,Moderate,Moderate,Never,7.6,Good,Low,Yes,No,No,No,No,No,No,none,122,83,76,32.9,113.8,1.16,Overweight
+46,Male,South Asian,24.3,Middle,Moderate,Moderate,Former,7.1,Good,Low,No,No,No,No,No,Yes,No,Insulin,93,82,76,32.8,89.1,0.95,Normal
+51,Female,South Asian,31.1,Low,Sedentary,none,Never,4.1,Average,Low,No,No,No,No,No,No,No,none,135,72,71,31.2,78.1,0.66,Obese
+38,Female,South Asian,23.3,Middle,Sedentary,none,Former,7.4,Average,Moderate,No,Yes,No,No,No,No,No,none,113,81,75,30.0,185.3,1.76,Normal
+52,Female,South Asian,25.9,Low,Active,Moderate,Never,10.0,Average,Moderate,No,No,No,No,No,No,No,none,111,90,69,31.5,79.5,0.78,Overweight
+32,Male,South Asian,28.3,Middle,Active,none,Former,5.4,Good,Moderate,No,No,No,Yes,No,No,No,none,120,82,54,33.2,166.0,1.71,Overweight
+25,Female,Hispanic,25.8,Low,Sedentary,Heavy,Current,7.3,Good,Moderate,Yes,No,No,No,No,No,No,Insulin,97,107,69,33.3,158.5,1.61,Overweight
+48,Male,African,36.2,Low,Moderate,none,Never,7.3,Average,Low,Yes,No,No,Yes,No,No,No,none,110,71,72,32.0,137.6,1.36,Obese
+41,Female,African,24.8,Low,Active,none,Never,10.0,Poor,High,Yes,No,No,Yes,No,No,No,none,109,82,70,31.2,97.9,0.93,Normal
+18,Female,South Asian,19.8,Middle,Moderate,none,Current,5.9,Average,Low,No,No,No,No,No,No,No,none,102,79,76,32.3,160.7,1.61,Normal
+18,Male,Caucasian,21.8,High,Active,none,Never,7.2,Poor,Moderate,No,No,No,Yes,No,No,No,Metformin,99,88,74,32.1,96.1,1.05,Normal
+36,Female,Caucasian,32.2,Middle,Sedentary,none,Never,8.3,Average,Moderate,No,No,Yes,Yes,No,Yes,No,none,120,60,69,33.4,98.3,1.03,Obese
+43,Male,African,27.8,Low,Sedentary,Moderate,Never,8.9,Poor,Moderate,No,No,No,No,No,No,No,none,103,81,78,31.9,192.2,1.98,Overweight
+63,Female,African,24.4,Low,Sedentary,Heavy,Never,7.4,Good,High,No,No,Yes,Yes,No,No,No,none,114,78,84,30.8,72.9,0.7,Normal
+35,Male,South Asian,23.2,Middle,Sedentary,Heavy,Former,7.3,Poor,Moderate,No,No,No,No,No,No,No,none,113,91,60,31.3,71.5,0.7,Normal
+26,Male,South Asian,23.0,Low,Moderate,Moderate,Current,8.7,Average,Moderate,No,No,No,Yes,No,No,No,Metformin,138,91,61,33.4,125.0,1.23,Normal
+44,Male,Other,23.6,Low,Sedentary,Moderate,Never,6.3,Average,High,Yes,No,No,No,No,No,Yes,none,104,91,87,31.4,174.5,1.76,Normal
+74,Female,Hispanic,29.6,Low,Sedentary,Moderate,Former,6.9,Good,Low,No,No,Yes,Yes,No,No,No,Metformin,117,69,72,32.5,98.8,0.93,Overweight
+40,Female,Other,20.6,Low,Sedentary,none,Never,6.6,Poor,High,No,No,No,No,No,No,No,Metformin,121,61,81,32.9,99.4,0.99,Normal
+25,Female,South Asian,30.2,Low,Sedentary,Heavy,Current,5.5,Good,High,No,No,No,Yes,No,No,No,Metformin,145,84,70,30.8,119.7,1.15,Obese
+39,Male,Other,26.6,Middle,Sedentary,Heavy,Former,7.2,Average,High,No,No,No,No,No,No,No,Insulin,132,78,69,34.2,70.3,0.76,Overweight
+32,Female,South Asian,30.0,Low,Sedentary,none,Former,6.0,Average,Moderate,No,No,No,No,No,No,No,none,90,87,76,33.3,99.7,1.02,Overweight
+51,Female,South Asian,24.9,Middle,Active,none,Never,7.0,Average,Moderate,No,No,No,Yes,No,Yes,No,none,121,75,84,32.7,74.2,0.73,Normal
+29,Female,South Asian,28.8,Middle,Sedentary,Moderate,Never,6.3,Poor,Moderate,No,No,No,No,No,No,No,Insulin,112,74,78,31.9,82.3,0.86,Overweight
+20,Male,Other,31.8,Low,Moderate,none,Never,4.0,Good,Moderate,Yes,No,No,No,No,No,Yes,none,100,60,72,31.4,122.2,1.14,Obese
+46,Female,South Asian,25.6,Low,Sedentary,none,Never,7.4,Average,Moderate,Yes,No,No,No,No,No,No,none,90,66,76,32.7,99.2,1.05,Overweight
+42,Male,Other,26.0,Low,Sedentary,none,Current,6.4,Average,High,No,No,No,No,No,No,No,Insulin,128,74,84,31.6,70.0,0.64,Overweight
+51,Female,Other,21.3,Low,Moderate,none,Current,7.7,Average,High,No,No,No,No,No,No,No,Steroids,133,76,84,32.0,85.1,0.83,Normal
+51,Female,South Asian,30.8,Low,Moderate,none,Never,9.1,Average,Low,No,No,No,No,No,No,No,Metformin,159,86,76,31.4,110.9,1.14,Obese
+35,Male,South Asian,21.0,Low,Sedentary,none,Never,10.0,Good,Moderate,Yes,Yes,No,No,No,No,No,none,128,87,70,32.3,157.3,1.51,Normal
+18,Male,Caucasian,22.1,Low,Sedentary,none,Never,8.4,Poor,High,No,No,No,No,No,No,No,Insulin,116,93,78,31.4,82.9,0.75,Normal
+18,Male,South Asian,25.6,Middle,Active,Moderate,Never,7.7,Average,High,No,No,No,Yes,No,Yes,No,none,90,77,72,32.1,86.3,0.84,Overweight
+49,Male,South Asian,20.7,Low,Sedentary,Heavy,Never,5.5,Average,High,Yes,No,No,Yes,No,No,No,none,96,77,76,31.1,125.6,1.26,Normal
+40,Female,South Asian,34.7,Middle,Sedentary,none,Never,6.0,Poor,High,Yes,No,No,No,No,No,No,none,129,71,90,31.5,72.9,0.67,Obese
+55,Female,South Asian,33.5,High,Sedentary,none,Never,6.6,Good,Moderate,No,No,No,No,No,No,No,none,113,80,72,32.4,109.0,1.1,Obese
+18,Female,Caucasian,26.1,Middle,Sedentary,none,Former,5.8,Average,High,No,No,No,No,Yes,No,No,none,124,83,53,31.3,103.4,0.94,Overweight
+29,Male,South Asian,18.2,High,Sedentary,none,Never,4.0,Good,Moderate,No,No,No,No,No,No,No,none,143,98,64,34.8,125.8,1.23,Underweight
+47,Male,Other,18.0,Middle,Moderate,Moderate,Never,6.2,Average,Low,No,No,No,No,No,No,No,none,112,81,74,30.4,113.8,1.06,Underweight
+44,Female,Caucasian,25.7,Low,Moderate,Moderate,Never,5.2,Good,Low,Yes,No,No,Yes,No,No,Yes,Insulin,91,92,53,30.0,93.6,0.87,Overweight
+44,Female,South Asian,25.8,Low,Moderate,Moderate,Current,6.2,Good,Moderate,Yes,Yes,No,Yes,No,No,No,Insulin,102,81,75,31.1,104.0,0.92,Overweight
+19,Female,South Asian,27.1,Middle,Sedentary,Moderate,Never,7.6,Average,High,Yes,Yes,No,No,No,No,No,none,113,89,73,30.5,111.6,1.1,Overweight
+27,Female,Other,26.4,Low,Sedentary,Moderate,Never,7.5,Good,High,Yes,No,No,No,No,No,No,Insulin,128,101,71,33.1,106.5,1.17,Overweight
+65,Male,South Asian,21.7,Low,Moderate,none,Current,7.2,Good,Moderate,No,No,No,No,No,No,No,Other,151,69,78,31.2,115.7,1.13,Normal
+33,Male,South Asian,30.7,Middle,Sedentary,none,Never,4.1,Good,Moderate,No,Yes,No,No,No,Yes,No,none,110,60,61,33.7,99.3,0.99,Obese
+63,Female,Hispanic,31.9,Middle,Moderate,Heavy,Never,6.6,Average,High,No,No,No,No,No,No,No,Metformin,128,86,67,33.3,99.3,0.97,Obese
+58,Female,Caucasian,25.5,Low,Sedentary,none,Never,5.1,Good,Moderate,Yes,No,No,No,No,No,Yes,Steroids,110,90,88,31.2,162.0,1.59,Overweight
+18,Female,Other,28.3,High,Active,Moderate,Never,5.5,Poor,Moderate,Yes,No,No,Yes,No,Yes,No,none,133,77,105,32.2,199.8,2.0,Overweight
+31,Male,Hispanic,23.9,Middle,Moderate,Moderate,Never,7.1,Average,High,No,No,No,No,No,No,No,none,113,60,75,33.7,111.4,1.18,Normal
+34,Female,South Asian,21.9,Low,Moderate,Moderate,Former,8.4,Poor,Low,No,No,No,No,No,No,No,none,114,90,56,31.2,85.8,0.79,Normal
+18,Male,South Asian,19.0,Middle,Moderate,Moderate,Never,4.9,Average,Moderate,No,No,No,No,No,No,No,Steroids,140,78,68,31.9,217.0,2.0,Normal
+35,Male,Caucasian,26.7,Low,Sedentary,none,Current,9.4,Average,Moderate,No,No,No,Yes,No,No,Yes,none,140,80,74,32.2,150.9,1.57,Overweight
+18,Female,African,32.2,Middle,Sedentary,none,Current,6.5,Average,Moderate,No,No,No,Yes,Yes,No,Yes,none,120,64,66,31.5,164.3,1.58,Obese
+45,Male,Hispanic,20.7,Low,Active,Moderate,Current,5.1,Good,Moderate,No,Yes,No,No,No,Yes,No,Insulin,110,78,73,31.1,99.9,1.0,Normal
+36,Female,African,21.7,Low,Sedentary,none,Current,6.2,Average,Moderate,No,Yes,No,Yes,No,Yes,No,none,118,98,80,31.1,167.0,1.59,Normal
+27,Female,South Asian,22.3,Middle,Sedentary,Moderate,Former,6.0,Average,High,No,Yes,Yes,No,No,No,No,Metformin,105,103,83,31.2,107.2,1.09,Normal
+18,Male,African,25.3,Low,Moderate,Moderate,Current,6.6,Average,Moderate,Yes,No,No,No,No,No,No,none,111,77,61,32.1,88.9,0.84,Overweight
+21,Female,South Asian,18.4,Low,Sedentary,none,Never,7.1,Good,Low,Yes,No,Yes,No,No,No,Yes,none,118,75,82,31.1,117.6,1.21,Underweight
+44,Female,Other,24.1,High,Active,none,Never,4.0,Average,Low,No,No,No,No,No,No,No,none,127,83,71,32.2,143.7,1.44,Normal
+32,Female,South Asian,34.7,Low,Moderate,none,Current,6.7,Average,High,No,No,No,No,No,No,No,Insulin,106,89,73,32.1,100.1,1.02,Obese
+41,Female,South Asian,24.9,High,Sedentary,none,Never,7.1,Average,Moderate,No,No,No,No,No,No,No,none,95,89,82,31.9,121.2,1.23,Normal
+22,Female,South Asian,34.6,Middle,Moderate,none,Never,5.3,Good,Low,No,No,No,No,No,No,No,Insulin,114,78,75,32.6,107.2,1.08,Obese
+45,Female,South Asian,29.4,Low,Sedentary,none,Never,8.2,Average,Moderate,Yes,No,No,No,No,Yes,No,none,147,81,85,31.5,74.9,0.67,Overweight
+30,Male,Caucasian,25.1,Middle,Sedentary,none,Current,4.4,Average,High,Yes,No,No,No,No,Yes,No,Steroids,139,82,86,32.9,157.4,1.59,Overweight
+52,Female,South Asian,31.3,Low,Sedentary,none,Never,7.9,Good,Low,No,Yes,No,No,No,No,No,Metformin,116,94,79,31.3,131.0,1.28,Obese
+50,Male,South Asian,26.0,Low,Moderate,none,Current,7.5,Average,High,No,No,No,Yes,No,No,No,Steroids,98,67,87,33.8,98.7,1.02,Overweight
+42,Female,South Asian,20.7,Low,Moderate,none,Current,6.6,Poor,Moderate,No,No,No,No,Yes,No,No,none,112,89,75,32.2,108.8,1.07,Normal
+53,Male,South Asian,28.6,Middle,Sedentary,none,Never,5.6,Average,Low,Yes,No,No,No,No,No,No,Steroids,118,87,64,32.6,124.9,1.22,Overweight
+18,Female,Caucasian,22.4,Low,Sedentary,none,Current,7.6,Poor,High,No,No,No,No,No,No,No,none,99,87,86,32.0,179.3,1.76,Normal
+42,Male,South Asian,21.8,Low,Moderate,none,Never,4.2,Good,Low,No,No,No,No,No,No,No,none,115,80,69,35.0,104.5,1.08,Normal
+43,Female,South Asian,34.7,High,Sedentary,Moderate,Never,8.2,Good,Low,No,No,No,No,No,No,No,none,142,66,87,34.3,72.6,0.85,Obese
+43,Female,South Asian,22.0,High,Sedentary,Moderate,Never,6.9,Average,Moderate,No,No,No,No,No,No,No,none,126,96,81,31.3,89.0,0.79,Normal
+36,Female,Caucasian,26.9,Middle,Sedentary,Moderate,Current,7.1,Good,Moderate,Yes,No,No,No,No,No,No,none,130,74,58,31.8,100.1,1.07,Overweight
+43,Male,South Asian,24.9,Low,Active,none,Never,7.1,Average,Low,No,No,No,No,No,Yes,No,none,137,83,74,32.9,97.7,1.04,Normal
+44,Male,South Asian,18.0,Middle,Moderate,none,Never,6.7,Good,Moderate,No,No,No,No,No,Yes,No,none,123,72,80,31.5,93.6,0.91,Underweight
+56,Male,African,28.2,Middle,Sedentary,none,Never,7.4,Good,Moderate,No,No,No,No,No,No,No,Insulin,101,60,69,33.2,86.3,0.86,Overweight
+21,Female,African,26.8,Low,Sedentary,none,Never,7.3,Average,High,No,Yes,No,No,Yes,Yes,No,Insulin,113,81,84,32.0,124.6,1.31,Overweight
+32,Male,Hispanic,24.0,Middle,Sedentary,none,Never,8.2,Average,High,No,No,No,No,No,No,No,Insulin,103,78,90,31.1,99.4,0.96,Normal
+39,Female,Hispanic,27.8,Low,Moderate,none,Never,7.3,Poor,High,No,No,No,No,No,No,No,Insulin,124,73,93,31.3,76.3,0.65,Overweight
+49,Male,African,35.0,Low,Moderate,none,Former,5.4,Average,Low,No,No,No,Yes,No,No,No,none,126,87,83,34.3,105.9,1.09,Obese
+31,Male,African,21.9,Middle,Active,Moderate,Former,6.7,Good,Moderate,No,Yes,No,Yes,No,No,No,none,136,81,86,32.6,111.3,1.02,Normal
+40,Male,Caucasian,22.0,Low,Moderate,none,Current,6.3,Good,Moderate,No,No,No,No,No,No,No,none,109,88,86,32.3,89.9,0.86,Normal
+18,Male,South Asian,34.5,Low,Sedentary,none,Never,7.9,Good,Low,No,No,No,No,No,No,Yes,none,124,63,75,31.6,116.2,1.15,Obese
+32,Other,Caucasian,31.1,Low,Sedentary,Moderate,Current,8.6,Poor,Moderate,No,No,No,No,No,No,No,none,121,91,65,32.2,109.2,1.11,Obese
+33,Female,South Asian,21.6,Middle,Active,none,Never,4.0,Good,Low,Yes,No,No,Yes,No,No,No,Metformin,126,88,53,32.7,87.1,0.92,Normal
+59,Female,Caucasian,32.6,Low,Moderate,none,Never,7.4,Poor,Low,No,No,No,No,No,No,No,none,123,85,73,30.5,81.0,0.71,Obese
+28,Male,Other,21.2,Middle,Sedentary,none,Never,6.6,Good,Moderate,No,No,No,No,No,No,No,none,104,64,74,32.6,110.4,1.05,Normal
+68,Female,Caucasian,27.7,Low,Sedentary,none,Never,6.5,Poor,High,No,No,No,No,No,No,No,Steroids,149,90,90,32.0,125.4,1.27,Overweight
+51,Female,South Asian,27.3,Low,Moderate,none,Never,6.3,Good,Moderate,No,Yes,Yes,Yes,No,No,No,none,120,78,84,32.5,153.3,1.53,Overweight
+44,Female,South Asian,25.7,Middle,Sedentary,none,Never,5.2,Average,Moderate,Yes,No,Yes,No,No,No,No,none,121,88,52,30.3,88.7,0.93,Overweight
+48,Male,South Asian,25.3,Middle,Sedentary,none,Never,6.6,Good,Low,Yes,No,No,No,No,No,No,Metformin,106,92,78,31.9,71.3,0.81,Overweight
+29,Male,South Asian,31.4,Middle,Sedentary,Moderate,Never,7.1,Average,High,No,No,No,No,No,No,No,Metformin,135,84,85,33.4,99.8,0.99,Obese
+47,Male,South Asian,18.0,Middle,Sedentary,Heavy,Never,6.1,Poor,Moderate,No,Yes,No,No,No,No,No,none,124,75,55,32.3,165.3,1.65,Underweight
+35,Male,South Asian,28.1,Middle,Moderate,Heavy,Current,6.3,Average,Moderate,Yes,No,No,No,No,Yes,No,Metformin,110,75,85,34.0,107.8,1.12,Overweight
+32,Male,Hispanic,20.3,Low,Sedentary,none,Never,5.1,Average,Low,No,No,No,No,No,No,No,none,140,97,70,30.5,83.0,0.75,Normal
+24,Male,South Asian,21.2,Middle,Moderate,none,Never,7.1,Poor,Moderate,No,No,No,Yes,No,No,No,none,97,79,83,30.8,108.9,1.03,Normal
+27,Male,African,22.6,Low,Sedentary,Moderate,Current,7.8,Good,Moderate,No,Yes,No,No,No,No,No,Metformin,115,77,82,31.1,110.8,1.09,Normal
+44,Female,Hispanic,32.4,Middle,Sedentary,Moderate,Former,6.9,Poor,Moderate,No,Yes,No,No,No,No,No,Insulin,136,74,77,31.1,118.6,1.15,Obese
+37,Female,Hispanic,31.7,Middle,Sedentary,Heavy,Never,6.3,Average,High,No,No,No,Yes,No,No,No,Metformin,101,60,78,30.9,82.1,0.91,Obese
+59,Female,Hispanic,28.5,Middle,Sedentary,Heavy,Never,6.0,Poor,Moderate,Yes,No,Yes,No,No,No,No,none,127,78,72,33.4,112.7,1.2,Overweight
+30,Male,African,23.4,Middle,Sedentary,none,Current,7.4,Good,Moderate,No,No,No,No,No,No,Yes,none,134,94,76,32.6,107.7,1.07,Normal
+30,Male,South Asian,32.2,Middle,Sedentary,Moderate,Current,5.0,Average,High,No,No,No,No,No,No,No,Steroids,113,81,65,32.7,86.5,0.78,Obese
+44,Male,Other,25.4,High,Sedentary,none,Never,8.3,Average,High,No,No,No,No,No,No,No,none,140,79,78,31.9,70.5,0.73,Overweight
+26,Male,Hispanic,30.8,High,Active,none,Never,7.5,Average,Moderate,Yes,No,No,No,No,No,No,Metformin,115,86,77,31.9,115.2,1.12,Obese
+53,Female,South Asian,24.2,Low,Sedentary,none,Never,4.6,Good,High,No,Yes,No,No,Yes,No,No,none,139,60,55,32.0,109.8,0.99,Normal
+31,Female,Hispanic,27.9,Low,Active,Heavy,Never,8.8,Average,High,Yes,No,No,No,No,No,No,Metformin,142,88,84,32.2,87.3,0.89,Overweight
+34,Female,Hispanic,36.2,Low,Sedentary,Moderate,Former,7.8,Average,Moderate,No,No,No,Yes,No,No,No,none,131,85,84,32.1,173.4,1.88,Obese
+38,Female,South Asian,29.1,Middle,Sedentary,Heavy,Never,7.0,Average,High,No,No,Yes,Yes,No,No,No,Other,132,82,75,32.8,154.6,1.62,Overweight
+46,Female,African,18.0,Low,Active,none,Never,4.0,Average,Moderate,Yes,Yes,No,No,No,No,Yes,none,129,95,73,33.1,105.9,1.15,Underweight
+36,Female,African,26.2,Middle,Sedentary,Moderate,Former,8.1,Average,Moderate,No,No,No,Yes,No,No,No,none,124,66,78,33.3,115.1,1.21,Overweight
+43,Male,Caucasian,37.0,Low,Active,none,Never,6.5,Average,Moderate,No,No,No,No,No,No,No,Insulin,101,85,64,32.2,79.5,0.85,Obese
+47,Other,African,18.0,Middle,Sedentary,Heavy,Former,6.3,Average,Moderate,Yes,Yes,No,No,No,No,No,none,112,83,80,31.4,114.8,1.16,Underweight
+19,Male,South Asian,27.5,High,Sedentary,Moderate,Current,5.7,Good,Low,Yes,No,No,No,No,No,No,Insulin,113,74,73,31.9,87.1,0.83,Overweight
+68,Female,Caucasian,27.2,Low,Sedentary,Moderate,Current,6.1,Good,High,No,No,No,No,No,Yes,No,Other,137,72,64,32.3,77.4,0.8,Overweight
+29,Male,Hispanic,28.8,Low,Sedentary,Heavy,Never,8.2,Good,Moderate,No,No,No,No,No,Yes,No,none,136,78,83,32.2,91.6,0.84,Overweight
+60,Male,South Asian,18.6,Middle,Sedentary,Heavy,Former,5.2,Average,Moderate,No,No,No,No,No,No,No,none,116,92,82,33.0,82.4,0.87,Normal
+37,Male,Caucasian,18.0,Middle,Active,Heavy,Never,7.3,Good,Low,No,No,No,No,No,No,No,none,121,75,55,32.3,92.4,0.89,Underweight
+26,Male,South Asian,19.4,Middle,Sedentary,Heavy,Former,7.8,Poor,Moderate,No,No,No,No,No,No,No,none,116,70,71,31.9,82.2,0.88,Normal
+49,Male,South Asian,35.0,Middle,Sedentary,Moderate,Former,10.0,Average,Moderate,No,No,No,No,No,Yes,No,Insulin,113,84,77,31.3,173.4,1.67,Obese
+47,Male,African,28.5,Low,Sedentary,none,Never,7.2,Average,High,No,No,No,No,No,Yes,No,none,141,85,83,31.2,111.3,1.16,Overweight
+51,Male,South Asian,18.0,Middle,Moderate,Heavy,Never,6.6,Average,Moderate,No,Yes,No,Yes,No,No,No,none,137,80,74,30.6,124.4,1.34,Underweight
+48,Male,Hispanic,26.2,Low,Active,none,Current,7.6,Good,High,No,No,No,Yes,No,No,No,none,142,64,69,32.6,82.7,0.72,Overweight
+18,Female,African,24.0,Low,Moderate,none,Current,6.9,Poor,High,No,Yes,No,No,Yes,No,Yes,Steroids,127,83,63,33.6,125.4,1.32,Normal
