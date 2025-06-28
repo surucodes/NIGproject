@@ -10,6 +10,8 @@ xgboost
 dill 
 Flask
 pickle
+streamlit
+
 # -e .
 #this -e setup.py will automaticallt get triggered.
 # 
