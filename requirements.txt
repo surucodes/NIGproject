@@ -8,10 +8,11 @@ scikit-learn
 catboost
 xgboost
 dill 
-Flask
+flask
 pickle
 streamlit
-
+plotly
+streamlit-option-menu
 # -e .
 #this -e setup.py will automaticallt get triggered.
 # 
